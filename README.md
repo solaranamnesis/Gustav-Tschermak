@@ -11,7 +11,7 @@ German - PDF
 
 ## Bericht über den Meteoritenfall bei Tieschitz in Mähren
 
-[English - Plain Text](/full-text-english.md)  
+[English - Plain Text](Tieschitz/full-text-english.md)  
 English - PDF  
-[German - Plain Text](/full-text-german.md)  
+[German - Plain Text](Tieschitz/full-text-german.md)  
 German - PDF  

@@ -83,7 +83,7 @@ Die geringere Zahl für die halbglasige Bindemasse, welche gleichwohl einen etwa
 
 Das mikroskopische Bild der schwarzen Bindemasse wird nun leichter verständlich. Sie erscheint als ein umgeschmolzener Chondrit derselben Art wie die Bruchstücke. Die sehr schwer schmelzbaren Silikate Olivin und Bronzit sind, wofern sie grössere Körnchen bildeten, erhalten geblieben, die feineren Theilchen aber und sämmtliches Eisen und aller Magnetkies sind vollständig umgeschmolzen. Die Schmelze besteht vorwiegend aus Eisen und Magnetkies. Ersteres hat sich beim Erstarren in grösseren Partikelehen ausgeschieden, der Magnetkies hingegen blieb feiner vertheilt und wurde die Hauptursache der auch im Dünnschliffe beobachteten Undurchsichtigkeit der halbglasigen Schmelze. Die letztere muss dünnflüssig gewesen sein, da sie in die feinsten Klüfte eindringt. Darnach wäre zu schliessen, dass die schwarze flüssige Masse mindestens die Temperatur des schmelzenden Eisens besass, aber keine höhere Temperatur hatte als die des schinelzenden Bronzits oder Olivins.
 
-Chantonnay.
+### Chantonnay.
 
 [Tafel 1: Fig. 1](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig1.png)
 

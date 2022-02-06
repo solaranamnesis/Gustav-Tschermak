@@ -4,14 +4,14 @@ Attempt at a translation of Dr. Tschermak's works. I welcome all pull requests o
 
 ## Trümmerstruktur der Meteoriten von Orvinio und Chantonnay
 
-[English - Plain Text]()  
+English - Plain Text  
 English - PDF  
 [German - Plain Text](Orvinio-und-Chantonnay/full-text-german.md)  
 German - PDF  
 
 ## Bericht über den Meteoritenfall bei Tieschitz in Mähren
 
-[English - Plain Text]()  
+English - Plain Text  
 English - PDF  
 [German - Plain Text](Tieschitz/full-text-german.md)  
 German - PDF  

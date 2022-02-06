@@ -46,6 +46,18 @@ Die schwärzliche Bindemasse besteht aus zwei Theilen, nämlich aus einem auch i
 
 Die chemische Zusammensetzung der beiden Steinarten wurde von dem Herrn L. Sipöcz im Laboratorium des Herrn Prof. E. Ludwig bestimmt!. Derselbe erhielt für die chondritischen Bruchstücke die Zahlen unter I und für die schwarze Bindemasse jene unter II.
 
+Kieselsäure 38.01 36.82  
+Thonerde 2.22 2.31  
+Eisenoxydul 6.55 9.41  
+Magnesia 24.11 21.69  
+Kalkerde 2.33 2.31  
+Natron 1.46 0.96  
+Kali 0.31 0.26  
+Schwefel 1.94 2.04  
+Eisen 22.34 22.11  
+Nickel 2.15 3.04  
+101.42 100.95  
+
 [Tafel 1: Fig. 1](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig1.png)
 
 [Tafel 1: Fig. 2](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig2.png)

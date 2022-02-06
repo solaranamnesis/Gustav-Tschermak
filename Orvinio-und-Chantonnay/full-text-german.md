@@ -85,7 +85,9 @@ Die geringere Zahl für die halbglasige Bindemasse, welche gleichwohl einen etwa
 
 Das mikroskopische Bild der schwarzen Bindemasse wird nun leichter verständlich. Sie erscheint als ein umgeschmolzener Chondrit derselben Art wie die Bruchstücke. Die sehr schwer schmelzbaren Silikate Olivin und Bronzit sind, wofern sie größere Körnchen bildeten, erhalten geblieben, die feineren Teilchen aber und sämtliches Eisen und aller Magnetkies sind vollständig umgeschmolzen. Die Schmelze besteht vorwiegend aus Eisen und Magnetkies. Ersteres hat sich beim Erstarren in größeren Partikelchen ausgeschieden, der Magnetkies hingegen blieb feiner verteilt und wurde die Hauptursache der auch im Dünnschliffe beobachteten Undurchsichtigkeit der halbglasigen Schmelze. Die letztere muss dünnflüssig gewesen sein, da sie in die feinsten Klüfte eindringt. Darnach wäre zu schließen, dass die schwarze flüssige Masse mindestens die Temperatur des schmelzenden Eisens besaß, aber keine höhere Temperatur hatte als die des schmelzenden Bronzits oder Olivins.
 
-Chantonnay. Über diesen Meteoritenfall besitzen wir ältere Nachrichten,* ferner eine Analyse von Berzelius,* die sich bloß auf den Silicatbestandteil bezieht, und eine Totalanalyse von Rammelsberg.* Die merkwürdige breccienartige Struktur des Steines wird von mehren Autoren wie Daubrée, Reichenbach, Meunier erwähnt. Sie gewinnt aber neuerdings Interesse, wenn sie mit jener des zuvor genannten Meteoriten verglichen wird.
+### Chantonnay.
+
+Über diesen Meteoritenfall besitzen wir ältere Nachrichten,* ferner eine Analyse von Berzelius,* die sich bloß auf den Silicatbestandteil bezieht, und eine Totalanalyse von Rammelsberg.* Die merkwürdige breccienartige Struktur des Steines wird von mehren Autoren wie Daubrée, Reichenbach, Meunier erwähnt. Sie gewinnt aber neuerdings Interesse, wenn sie mit jener des zuvor genannten Meteoriten verglichen wird.
 
 *) Chladni. Gilbert's Annalen. Bd. 60, pag. 247. Cavoleau, Journal de Physique. Bd. 85, pag. 311.
 

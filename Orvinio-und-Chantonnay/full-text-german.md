@@ -46,6 +46,7 @@ Die schwärzliche Bindemasse besteht aus zwei Theilen, nämlich aus einem auch i
 
 Die chemische Zusammensetzung der beiden Steinarten wurde von dem Herrn L. Sipöcz im Laboratorium des Herrn Prof. E. Ludwig bestimmt!. Derselbe erhielt für die chondritischen Bruchstücke die Zahlen unter I und für die schwarze Bindemasse jene unter II.
 
+I.|II.  
 Kieselsäure 38.01 36.82  
 Thonerde 2.22 2.31  
 Eisenoxydul 6.55 9.41  
@@ -57,6 +58,32 @@ Schwefel 1.94 2.04
 Eisen 22.34 22.11  
 Nickel 2.15 3.04  
 101.42 100.95  
+
+Die beiden Bestandtheile, die Bindemasse und die Bruchstücke haben, wie später gezeigt wird, fast dieselbe chemische Zusammensetzung, fast das gleiche Volumgewicht, und so viel sich ermitteln lässt, auch denselben mineralogischen Bestand. Demnach lässt sich der Meteorit von Orvinio mit einer bestimmten Art tellurischer Gesteine vergleichen und zwar mit einer Breeeie vulkanischen Gesteins, welche aus einer diehten Grundmasse und aus körnigen Trümmern desselben Gesteins zusammengesctzt ist. Bekanntlich sieht man derlei Breeeien an Vulkanen und überhaupt im Bereiche der eruptiven Felsarten häufig. Sie bilden sich dadurch, dass ältere krystallinische Laven von einer jüngeren dichteren durehbrochen werden.
+
+Ich gehe nun zu einer genaueren Beschreibung der Bestandtheile über.
+
+Die hellen Bruchstücke in dem Meteoriten von Orvinio bestehen aus Chondrit. Die Chondrite sind mehr oder weniger tufähnliche Massen, bestehend aus Gesteinskügelehen und einer pulverigen oder dichten gleich zusammengesetzten Grundmasse. So ist es auch hier. Ein Dünnschliff, welcher aus einen solchen Bruchstücke gewonnen wurde, zeigt Kügelchen, welche meist aus einem, seltener aus mehreren Mineralen bestehen, und welche in einer aus Splittern derselben Minerale bestehenden Masse liegen, die auch dunkle Partikelehen von Niekeleisen und Magnetkies enthält. Fig. 3 auf Taf. I.
+
+Unter den durchsichtigen Mineralen unterscheidet man eines, das nur unvollkommene Spaltbarkeit zeigt und in Körnchen vorkönmt, ziemlich leicht von den anderen. Nach den genannten Kennzeichen und den Daten der Analvse ist es für Olivin zu halten. Das andere Mincral, welches in Säulchen von deutlich erkennbarer Spaltbarkeit nach einem Prisma von fast quadratischem Querschnitte, ferner nach der Quer- und der Längsfläche vorkömmt, ist als Bronzit zu erklären. Ein drittes, welches in feinblätterigen oder feinfaserigen Partikeln auftritt, könnte mit dem vorigen identisch sein, dürfte aber, da die Analyse auf einen feldspathartigen Gemengtheil hinweist, für diesen zu halten sein. Eine Erscheinung, die an manchen Chondriten, z.B. Pultusk, Alessandria, Chateau Renard, auftritt, findet sich auch hier: an manchen Bruchstücken sind schwarze Spiegelflächen mit parallelen Streifen zu beobachten.
+
+Manches, was hier bezüglich der chondritischen Masse ferner zu sagen wäre, habe ich schon bei einer früheren Gelegenheit, als ich den Meteorit von Gopalpur beschrieb,* ausgesprochen. Ich wiederhole hier nur das Eine, dass ich die Chondrite für Zerreibungs-Tuffe, und die Kügelehen derselben für solche Gesteinspartikelehen halte, welche wegen ihrer Zähigkeit bei dem Zerreiben des Gesteines nicht in Splitter aufgelöst, sondern abgerundet wurden.
+
+*) Diese Berichte Band LXV. Abth. I. pag. 122. Die beigegebene Tafel enthält Abbildungen eines Dünnschliffes und verschiedener Kügelchen. 
+
+Die beiden Massen haben demnach fast gleiche Zusammensetzung. In Betracht des Umstandes, dass beide Gemenge sind, erscheinen die Differenzen ganz unerheblich ausser bei Magnesia und Eisenoxydul. Wenn aber das atomistische Verhältniss des Silicium zu der Summe von Magnesium und Eisenoxydul berechnet wird, ergibt sich für die erstere Analyse 1:1.096 und für die zweite 1:1.098. Es zeigt sich also, dass in der schwarzen Bindemasse zwar etwas weniger Magnesia vorhanden sei, dass aber dafür eine äquivalente Menge Eisenoxydul eintrete.*
+
+*) Es existirt auch eine Analyse von G, Bellueei mit 16.84 Proc. Thonerde und 8.97 Proc. Magnesia. Die Zahlen sind ganz unrichtig und erinnern an die Analysen Holger's an dem Stein von Wessely, für welchen dieser 39 Pet. Thonsilicat, 22.66 Pet. Schwefel ete. angab. Es wäre zu wünschen, dass derlei Zahlen nicht durch eompilatorischen Eifer verewigt würden.
+
+Aus den Daten der Analyse lässt sich entsprechend den, an dem Meteoriten von Gopalpur gemachten Erfahrungen schliessen, dass in den Silikaten ausser dem Bronzit und Olivin, für welche sich wenig verschiedene percentische Mengen berechnen, auch noch ein Gemengtheil vorhanden sein möge, dem die Thonerde und die Alkalien zukommen, also ein Feldspath ähnlicher Gemengtheil, der bisher noch nieht mechanisch gesondert werden konnte.
+
+Das Volumgewicht eines ehondritischen Bruchstückes fand ich 3:675, das der schwarzen Bindemasse 3.600.
+
+Die geringere Zahl für die halbglasige Bindemasse, welche gleichwohl einen etwas grösseren Eisengehalt besitzt, harmonirt mit dem Umstande, dass diese Masse das Anschen eines halbgeschmolzenen Körpers hat, indem die Silieate im glasigem Zustande immer ein geringeres Volumgewicht zeigen.
+
+Das mikroskopische Bild der schwarzen Bindemasse wird nun leichter verständlich. Sie erscheint als ein umgeschmolzener Chondrit derselben Art wie die Bruchstücke. Die sehr schwer schmelzbaren Silikate Olivin und Bronzit sind, wofern sie grössere Körnchen bildeten, erhalten geblieben, die feineren Theilchen aber und sämmtliches Eisen und aller Magnetkies sind vollständig umgeschmolzen. Die Schmelze besteht vorwiegend aus Eisen und Magnetkies. Ersteres hat sich beim Erstarren in grösseren Partikelehen ausgeschieden, der Magnetkies hingegen blieb feiner vertheilt und wurde die Hauptursache der auch im Dünnschliffe beobachteten Undurchsichtigkeit der halbglasigen Schmelze. Die letztere muss dünnflüssig gewesen sein, da sie in die feinsten Klüfte eindringt. Darnach wäre zu schliessen, dass die schwarze flüssige Masse mindestens die Temperatur des schmelzenden Eisens besass, aber keine höhere Temperatur hatte als die des schinelzenden Bronzits oder Olivins.
+
+Chantonnay.
 
 [Tafel 1: Fig. 1](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig1.png)
 

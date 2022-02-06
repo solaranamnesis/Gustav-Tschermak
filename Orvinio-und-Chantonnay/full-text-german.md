@@ -138,18 +138,20 @@ Es könnte also scheinen, dass man sich die schwarze verkittende Masse der Meteo
 
 Man mag übrigens den Thatsachen diese oder jene Auslegung geben, in jedem Falle ist durch dieselben bewiesen, dass die beiden Steine früher Zeugen von Vorgängen waren, die nur auf einem solchen Himmelskörper möglich sind, welcher an der Oberfläche und im Inneren verschiedene Zustände aufweist. Die beiden Steine geben uns also Nachricht von Veränderungen auf der starren Oberfläche eines oder mehrerer Planeten, welche später in Trümmer aufgelöst wurden.
 
-[Tafel 1: Fig. 1](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig1.png)
+### Erklärung der Tafeln.
 
-[Tafel 1: Fig. 2](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig2.png)
+[Tafel 1: Fig. 1](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig1.png) — Ansicht eines Meteorsteines von Orvinio in 1/2 der natürl. Grösse (linear). Links Brustseite, rechts Rückenseite. Die punktirte Linie gibt dieRichtung des durch den Meteoriten geführten Schnittes an.
 
-[Tafel 1: Fig. 3](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig3.png)
+[Tafel 1: Fig. 2](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig2.png) — Ansicht des Schnittes in natürlicher Grösse im auffallenden Lichte. Die Trümmerstructur, die Sprünge sind deutlich. Ein Bruchstüek links zeigt den Unterschied der helleren Färbung im Inneren und der dunklen Färbung gegen die Rinde zu, die kleineren Bruchstücke sind durchaus dunkel. Die dunkle Bindemasse zeigt eine Fluidaltextur, welche von höchst feinen Eisenflasern herrührt und eine unnachahmliche Zartheit der Zeichnung besitzt.
 
-[Tafel 1: Fig. 4](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig4.png)
+[Tafel 1: Fig. 3](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig3.png) — Partie eines Dünnschliffes aus einem Bruchstück in dem Meteoriten von Orvinio. Durchtallendes Licht. Vergrösserung 20fach. Die Aunklen Partikel sind Eisen und Magnetkies, letzterer ist feiner vertheilt. Die Unterscheidung beider erfolgt natürlich nur im auffallenden Lichte.
 
-[Tafel 1: Fig. 5](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig5.png)
+[Tafel 1: Fig. 4](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig4.png) — Theil eines Dünnschliffes durch ein Bruchstück und die angrenzende Bindemasse. Vergrösserung 20. Das chondritische Bruchstück erscheint hier im Contacte mit der Bindemasse von einem schwarzen Magma durchdrungen. An der Grenze beider endigt ein Sprung. Die Bindemasse ist von feinen Eisenadern durchzogen. Diese sind durch ein helleres Grau bezeichnet.
 
-[Tafel 2: Fig. 6](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table2-fig6.png)
+[Tafel 1: Fig. 5](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig5.png) — Theile eines Dünnschliffes durch die Bindemasse. Vergrösserung 20. Ein Theil der Bindemasse ist reich an chondritischen Splittern und rundlichen Eisenpartikeln, die andere ist dicht, die Eisentheilchen sind sehr klein.
 
-[Tafel 2: Fig. 7](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table2-fig7.png)
+[Tafel 2: Fig. 6](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table2-fig6.png) — Ansicht eines polirten Durchschnittes durch den Meteorstein von Chantonnay in natürlicher Grösse. Auffallendes Licht. Die Trümmerstructur wird hervorgebracht durch viele Bruchstücke, die von einem schwarzen Magma umhüllt sind. Die Bruchstücke sind durch grössere Eisenpartikel kenntlich. Das Magma zeigt keine erkennbaren Eisentheilchen. Die drei grösseren Bruckstücke sind im Inneren lichter gefärbt. Sie zeigen eine an verschiedenen Stellen ungleich dicke dunkle Rinde. Die vielen kleinen Bruchstücke sind ganz und gar schwarz imprägnirt und heben sich nur durch die geringere Politur und die Eisenpartikel von dem umgebenden Magma ab. In der Masse des Steines sind unregelmässige offene Sprünge bemerkbar.
 
-[Tafel 2: Fig. 8](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table2-fig8.png)
+[Tafel 2: Fig. 7](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table2-fig7.png) — Eine Partie eines Dünnschliffes durch das helle Innere eines grossen Bruckstückes. Durchfallendes Licht. Vergrösserung 15. Die dunklen Partikel sind Eisen und Magnetkies.
+
+[Tafel 2: Fig. 8](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table2-fig8.png) — Theil eines Dünnschliffes durch zwei imprägnirte kleine Bruchstücke und die zwischenliegende schwarze Masse. Die letztere enthält chondritische Splitter. Vergrösserung 15.

@@ -85,6 +85,59 @@ Das mikroskopische Bild der schwarzen Bindemasse wird nun leichter verständlich
 
 ### Chantonnay.
 
+Über diesen Meteoritenfall besitzen wir ältere Nachrichten,* ferner eine Analyse von Berzelius?, die sich blos auf den Silicatbestandtheil bezieht, und eine Totalanalyse von Rammelsberg.* Die merkwürdige breceienartige Structur des Steines wird von mehren Autoren wie Daubree, Reichenbach, Meunier erwähnt. Sie gewinnt aber neuerdings Interesse, wenn sie mit jener des zuvor genannten Meteoriten verglichen wird.
+
+*) Chladni. Gilbert's Annalen. Bd. 60, pag. 247. Cavoleau, Journal de Physique. Bd. 85, pag. 311.
+
+*) Poggend. Ann. Bd. 33, p. 28. Zeitschrift d. deutsch. geol. Ges. Bd. 22, pag. 889.
+
+Der Stein von C'hantonnay, von welchem das Wiener Museum ein grosses und mehre kleinere Exemplare besitzt, zeigt so wie jener eine spärliche schwarze runzelige matte Rinde. Die Schnittfläche, welche durch denselben gelegt ist, zeigt chondritische Bruchstücke, welehe eine dunkle Rinde besitzen und durch eine reichliche schwarze, zum Theil halbglasige Bindemasse zusamnıengefügt sind. Fig. 5 auf Taf. I. Dureh die Masse des ganzen Steines ziehen auch hier Sprünge, welche daranf schliessen lassen, dass dieselbe erhitzt worden und beim Erkalten in Folge der ungleichartigen Beschaffenheit sich ungleichförmig zusammengezogen habe.
+
+Die Bruchstücke sind ein Chondrit, welcher nicht sehr reich an Kügelchen ist, jedoch deren hie und da grössere enthält. Er zeigt Ähnlichkeit mit dem Chondrit des zuvor beschriebenen Steines von Orvinio, enthält aber weniger Eisen. Die Figur 6 gibt das Bild einer Partie aus einem Dünnsehliff. Man kann wiederum Olivin, Bronzit, ein feinfaseriges durchscheinendes Mineral, sowie Nickeleisen und Magnetkies erkennen. Ob Chromit vorhanden sei, konnte ich nieht entscheiden. Die Unterscheidung von Bronzit und Olivin gelang mir nicht an allen hierhergehörigen Theilchen, obgleich die Studien an dem Stein von Lodran* vorzügliche Kennzeichen liefern. Man sieht jedoch auch hier die deutliche Spaltbarkeit der Bronzitkörnehen häufig.
+
+*) Diese Berichte Bd. LXI. Abth. II, pag. 465. Dieser Meteorit gestattete die mechanische Trennung, die Messung der Winkel, die mikroskopische Untersuchung und chemische Analyse der Krystalle von Olivin, Bronzit und Chromit.
+
+Die Rinde der Bruchstücke ist schr ungleich diek. Sie ist wiederum härter als das Innere und zeigt bei der mikroskopischen Prüfung eine Imprägnation durch eine schwarze, in die feinsten Klüfte eingedrungene Masse.
+
+Zuweilen zeigen sich in den Bruchstücken feine schwarze Adern oder Gänge, welche mit der schwarzen Bindemasse communieiren; sie sind Apophysen der Bindemasse, welche eben so gut im Stande war, gröbere Klüfte auszufüllen, als sie die feinen inıprägnirte. Ganz gleich aussehende schwarze Adern sieht man bekanntlich an ziemlich vielen Meteoriten, wie Lissa, Kakowa, Chateau Renard, Alessandria, Pultusk. Bei manchen derselben überzeugt man sich, dass die schwarzen Linien nichts anderes sind, als die Querschnitte von Rutschflächen, wie an den Steinen von Chateau Renard, Pultusk, Alessandria. Bei anderen Meteoriten wie an denen von Lissa, Kakowa hingegen haben die Adern ganz den Charakter der zuvor genannten Apophysen. Ich glaube daher, dass die letzteren Meteoriten auf ihrer ursprüngliehen Lagerstätte mit einer heissflüssigen Masse in Berührung gekommen und in solcher Weise injieirt worden sind. Reichenbach war der Ansicht, dass die schwarzen Adern mit der Schmelzrinde in Verbindung stehen, also wänrend des Fluges durch «die Atmosphäre gebildet wurden.* Dem widerspricht aber der Umstand, dass nach Beobachtung und Rechnung das Innere der Meteoriten bei ihrer Ankunft auf der Erde eine sehr niedere Temperatur besitzt, welche das Eindringen einer Schmelzmasse in capillare Räume verhindern muss. Einen Beleg datür liefert das Folgende.
+
+Zwischen den Bruchstücken und der schwarzen Biudemasse des Steines von Chantonnay zeigen sich zuweilen capillare offene Klüfte. Eine solche Kluft mündet an einer Stelle an der Oberfläche des Meteoriten. Hier sieht man die Schmelzrindenmasse in der That eingedrungen, aber nur auf eine Tiefe von 6 Mm., obgleich die Kluft theilweise offen war. Die Schmelze endet in der Kluft mit einigen in die Länge gezogenen Tropfen.
+
+Die schwarze PBindemasse besteht aus chondritischen schwarz imprägnirten Partikeln und aus einem undurchsichtigen spröden halbglasigen Magma. Die Fig. 5, welche die Ansicht eines Schnittes gibt, zeigt, dass die Partikel in der Bindemasse beinahe verschwinden, doch erkennt man sie noch an den enthaltenen grösseren Eisentheilchen. Die Menge des halbglasigen Magma ist also geringer. als man beim ersten Anblick zu glauben geneigt ist.
+
+Eine Fluidaltextur zeigt sich dem freien Auge nicht, doch erkennt man eine solche Textur, welche auch hier von der Anordnung der Eisenpünktchen in dem Magma herrührt, mit der Lupe an mehren Stellen, wo sich die Bruchstücke und das Magma berühren. Dass diese Textur hier weniger auffallend ausgesprochen ist, möchte wohl dem geringeren Gehalt von Nickeleisen zuzuschreiben sein, da er blos 79 Pet. beträgt, während er sich in dem Stein von Orvinio auf 25 Pet. beläuft.
+
+Das schwarze halbglasige Magma besteht aus einer vollständig undurchsichtigen Masse, worin Splitter der auch in den Bruchstücken enthaltenen Silicate, zuweilen auclı einzelne Kügelchen liegen. Im auffallenden Lichte sieht man feine Pünktchen von Nickeleisen und Magnetkies. Wo die Fluidaltextur erkannt wurde, sind diese Pünktchen perlschnurartig angeordnet. Man sieht auch sehr feine Adern der letztgenannten Minerale, welche zugleich mit der imprägnirenden Masse in die chondritischen Partikel und Bruchstücke eindringen.
+
+Die Menge des eigentlichen schwarzen Magma ist gering, denn die Hauptmasse alles dessen, was schwarz erscheint, ist nur imprägnirter Chondrit.
+
+Eine gesonderte chemische Untersuchung der Bruchstücke und der Bindemasse ist bisher noch nicht ausgeführt worden. Berzelius gab blos die Analyse der Silieate der schwarzen Bindemasse, ohne die Menge des Eisens und des Magnetkieses zu bestimmen. Rammelsberg führt nicht an, welcher Art sein Material gewesen, wahrscheinlich waren beide Theile des Steines darin vertreten. Nach den Erfahrungen an dem Stein von Orvinio dürfte auch hier die Zusammensetzung der Bindemasse von der der Bruchstücke nur unbedeutend differiren. Ich vergleiche nun hier die von Rammelsberg erhaltenen Zahlen mit den früher angeführten in der Weise, dass in der ersteren Analyse die Daten für den in Säure auflöslichen und den unauflöslichen Theil vereinigt werden.
+
+Kieselsäure 37.38 33.01 36.82  
+Thonerde 2.53 2.22 2.31  
+Eisenoxydul 14.67 6.55 9.41  
+Manganoxydul 0.27 — —  
+Magnesia 25.37 24.11 21.69  
+Kalkerde 1.41 2.33 2.31  
+Natron 1.14 1.46 0.96  
+Kali 1.14 0.31 0.26  
+Chromoxyd 0.60 — —  
+Eisenoxydul 0.37 — —  
+Schwefel 2.24 1.94 2.04  
+Eisen 10.65 22.34 22.11  
+Nickel 1.16 2.15 3.04  
+97.79 101.42 100.95
+
+Der Unterschied ist grösstentheils gering, nur im Eisengehalte differiren die beiden Meteoriten erheblicher. Rechnet man alles Eisen als metallisches Eisen, so geben die drei Analysen die Zahlen 22.63, 27.43 und 29.43.
+
+Die Erscheinungen an den Meteoriten von Orvinio und von Chantonnay führen zn dem Schlusse, dass diese Massen ursprünglich nicht die gegenwärtige Beschaffenheit hatten, sondern dass sie durch Zertrümmerung fester Gesteine und nachherige Zusammenfügung derselben mittelst eines halbglasigen Magma, in ihren gegenwärtigen Zustand gelangt sei. Ich habe dafür gleich eingangs eine Parallele mit den eruptiven Breceien unserer Erde gezogen, doch könnte es nunmehr scheinen als ob dieser Vergleich nieht vollkommen zutreffe. Die schwarze Bindemasse ist nämlich nicht so homogen wie eine verkittende Lava, sondern enthält viele Gesteinsplitter in der halbglasigen Grundmasse. Dieser Umstand hängt aber mit der äusserst schwierigen Schmelzbarkeit der Silieate zusammen, welche die Hauptmasse Jener Meteoriten bilden. Wir besitzen auf unserer Erde keine Olivinfels- oder Bronzitfelslaven, daher werden wir auch etwas der schwarzen Rindemasse völlig Gleiches unter unseren vulcanischen Produeten nicht auffinden.
+
+Wollte man aber trotzdem jene meteorischen Trümmergesteine mit anderen, nicht vulkanischen Bildungen unserer Erde vergleichen, so könnte man sie vielleicht mit den Dislocations-Breccien in eine Linie stellen, d. h. mit jenen Breecien, welche durch eine Zertrümmerung und eine an derselben Stelle erfolgte Verkittung der Gesteintrümmer durch den Absatz einer wässerigen Lösung gebildet wurden. Man könnte sie vielleicht auch mit den im Durchschnitte marmorirt ausschenden Kalksteinen etc. vergleichen, deren Aderung durch wässerige Einflüsse entstanden ist. In der That besitzt der Stein von Chantonnay eine feine Textur, die einigermassen einer solchen metamorphischen Breccie entspricht.
+
+Es könnte also scheinen, dass man sich die schwarze verkittende Masse der Meteoriten - Breecie auch durch allmälıg und bei mässiger Temperatur wirkende Ursachen gebildet vorstellen könnte. Dem ist aber entgegenzuhalten, dass die Sprünge und Klüfte in dem ganzen Steine, der halbglasige Zustand der Bindemasse, der Eisen- und Magnetkies-Theilchen, die Fluidaltextur durchwegs auf die Mitwirkung einer hohen Temperatur hinweisen, ferner dass eine allmälige Entstehung durch die vorliegenden Beobachtungen wohl nicht gänzlich ausgeschlossen, aber doch nicht wahrscheinlich gemacht sei, weil in diesem Falle eine krystallinische Ausbilduug des schwarzen Magma zu erwarten wäre.
+
+Man mag übrigens den Thatsachen diese oder jene Auslegung geben, in jedem Falle ist durch dieselben bewiesen, dass die beiden Steine früher Zeugen von Vorgängen waren, die nur auf einem solchen Himmelskörper möglich sind, welcher an der Oberfläche und im Inneren verschiedene Zustände aufweist. Die beiden Steine geben uns also Nachricht von Veränderungen auf der starren Oberfläche eines oder mehrerer Planeten, welche später in Trümmer aufgelöst wurden.
+
 [Tafel 1: Fig. 1](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig1.png)
 
 [Tafel 1: Fig. 2](https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/table1-fig2.png)

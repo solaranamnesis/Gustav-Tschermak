@@ -1,8 +1,10 @@
 # Die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay.
 
-## Vom dem c. M. G. Tschermak.
+## Von G. Tschermak, korrespondirendem Mitgliede der kaiserlichen Akademie der Wissenschaften.
 
 ## (Mit 2 Tafeln.)
+
+## (Vorgelegt in der Sitzung am 19. November 1874.)
 
 ### Orvinio.
 

@@ -31,3 +31,44 @@ Die Oberfläche des Steines zeigt namentlich auf den Randflächen häufig die ch
 Das Innere (es Meteorsteines ist aschgrau, im Bruche matt und uneben durch viele kleine Kügelehen und auch durch Splitter. Diese und jene zeigen eine tiefgraue bis weisse Farbe. Die Grundmasse hat einen erdigen Bruch, enthält ausser dein Steinpulver auch zweierlei metallisch aussenende Körnchen. Die Kügelchen zeigen im durchfallenden Lichte die für Bronzit und für Olivin charakteristischen Texturen, die weisslichen Kügelchen und Splitter sind auf den eisenarmei Bronzit (Ensatit) zu beziehen. Diese Minerale haben viele Einschlüsse, sowohl solche von glasiger Beschaffenheit, als auch solche von metallischen Aussehen. Die Grundmasse besteht aus denselben Mineralien im Zustande feiner Zertheilung, ferner aus Partikeln von gediegenem Eisen und von Magnetkies. Demnach sehört dieser Meteorstein zu den Chondriten, und zwar zu denjenigen, welche in der von mir gegebenev Eintheilung! durch viele braune feinfaserige hügelchen charakterisirt sind.
 
 Nach einer Verabredung, weiche ich mit Herrn Professor Makowsky getroffen, soll der ausführliche Bericht über den Meteoritenfall von Tieschitz und die genaue Beschreibung des Steines von uns Beiden gemeinschaftlich in den Schriften der k. Akademie veröffentlicht werden. Die Beschreibung wird von mehreren Tafeln begleitet sein, für welche die photographischen Aufnahmen bereits in Brünn ausgeführt wurden. Die chemische Analyse hat gütigst Herr Professor Habermann übernommen, während Herr Professor v. Niessl sich der Mühe unterzog, die eingelaufenen Berichte über die an verschiedenen Punkten gehörte Detonation zusammenzustellen und zu einer beiläufigen Bahnbestimmung zu verwerthen.
+
+## (Zweiter Bericht.)
+
+Über diesen Meteoritenfall, welcher am 15. Juli 1878 stattland, sind seit der Vorlage des ersten Berichtes noch iernere Nachrichten eingelaufen. Durch dieBemühungen der Herren Prot. A. Makowsky und Prof. G. v. Niessl in Brünn wurden die Aussagen vieler Zeugen gesammelt, welche die Detonation des Meteors gehört hatten. Herr Prof. v. Niess| musste sich mit den Angaben über die Schallwahrnehmung begnüsen, da der Meteoritenfall am hellen Tage eintrat. Dennoch vermochte er aus diesen Daten eine beiläufige Bahnbestimmung in Bezug auf die Erdoberfläche auszuführen, wonach die Richtung eine östliche war und die Bahnlage durch Azimut 108° Höhe 40° bestimmt erscheint. Für die Zeit des Falles wurde 2 Uhr 45 Minuten Nachmittags als annähernde Bestimmung erhalten, wonach sich auch die siderische Bahn beiläufig erschliessen lässt.
+
+Der Meteorit wurde mittlerweile bezüglich der äusseren Form von Herın Prof. Makowsky und bezüglich der chemischen Zusammensetzung von Herrn Prof. J. Habermann in Brünn untersucht. Es wurde schon im ersten Berichte erwähnt, dass der Stein ungefähr die Form einer schiefen vierseitigen Pyramide besitze. Die Oberfläche ist von einer schwarzen matten Schmelzrinde bedeckt, welche jene Anordnung feiner Runzeln darbietet, aus der die Orientirung des Steines gegen die Richtung seines Fluges durch die Atmosphäre bestimmt werden kann. Ausserdem bemerkt man häufig kleine Erhabenheiten, welche von Kügelchen herrühren, die schwieriger schmelzbar sind als ihre Umgebung und daher langsamer als diese aufgezehrt wurden. Stellenweise hat die Rinde kleine rauhe Unterbrechungen welche darauf deuten, dass während des Fluges dureh die Luft kleine Splitter abgesprungen seien.
+
+Die chemische Zusammensetzung entspricht vollkommen der eines Chondrits. Die Analyse ergab:
+
+Kieselsäure 40.23  
+Thonerde 1.93  
+Eisenoxydull 19.48  
+Manganoxydul 0.32  
+Masenesia 20.55  
+Kalkerde 1.54  
+Natron 1.53  
+Phosphorsäure 0.22  
+Schwefel 1.65  
+Eisen 10.26  
+Nickel 1.31  
+99.02
+
+Das Volumgewient des Steines ist 3.59.
+
+Die Untersuchung der Textur und mineralogischen Beschaffenheit wurde von mir ausgeführt, wobei sich mehrere wichtige Thatsachen ergaben.
+
+Der Stein gehört, wie schon früher bemerkt wurde, zu den Chondriten mit vielen braunen, harten, feinfaserigen Kügelchen. Bisher hatte ich in Meteoriten immer nur solche Kügelchen gefunden, welche kugelrund oder längliehrund waren und eine glatte oder rauhe Oberfläche darboten, die keine Unterbrechung der gleichförmigen Krümmung erkennen liess. Da ich ferner in Übereinstimmung mit G. Rose den Mangel einer concentrischen Anordnung als für die Kügelehen der Chondrite charaeteristisch Übereinstimmung mit G. Rose den Mangel einer concentrischen Anordnung als für die Kügelehen der Chondrite charaecteristisch erkannte, so leitete mich die Form und Textur der Kügelchen zu der Vorstellung, dass die Kügelchen durch die bei vulkanischen Vorgängen eintretende Zerreibung zu dieser Gestalt gelangt seien.*
+
+In dem Tieschitzer Stein finden sich aber Kügelchen mit runden Eindrücken, welche darauf hinweisen, dass manche Kügelchen plastisch und andere zu gleicher Zeit starr gewesen seien.
+
+Ferner kommen an denselben Kügelehen kleine Auswüchse vor, welche die Rundung der Oberfläche unterbrechen. Im Inneren zeigt sich endlich bei manchen eine concentrische Anordnung.
+
+Diese Thatsachen veranlassen mich, die früher ausgesprochene Ansicht aufzugeben, da die beobachteten Erscheinungen derselben mit grosser Bestimmtheit widersprechen. Obwohl ich nun die Bildung der tuffartigen Meteoriten jetzt ebenso wie früher auf einen vulkanischen Vorgang zurückführe, so glaube ich doch die Form der Kügelchen nicht mehr von einer Zerreibung fester Gesteinsmassen ableiten zu sollen, vielmehr möchte ich es für wahrscheinlicher halten, dass die Kügelchen erstarrte Tropfen seien, dass also bei den vorausgesetzten vulkanischen Vorgängen eine dünnflüssige Schmelze ın Tropien zerstäubt wurde, welche nach ihrer raschen Erstarrung die Hauptmasse des Tuffes bildeten, der nun als chondritisches Gemenge vorliegt.
+
+Der untersuchte Stein enthält auch ungemein viele zerbrochene Kügelchen, was in anderen Meteoriten seltener zu beobachten ist, ferner zeigt derselbe ın der Textur und Farbe der Gemengtheile eine ungewöhnliche Mannigfaltigkeit, so dass der Stein In mehrfacher Beziehung als ein merkwürdiger zu bezeichnen ist.
+
+Die mikroskopische Untersuchung lässt als Mineralgemengtheile vor allem Olivin erkennen, der öfter nette Krystalle bildet, ausserdem Bronzit sammt den Übergängen zum Enstatit überdies Augit, Magnetkies und Nickeleisen.
+
+Ob ein feldspathähnliches Mineral vorhanden sei, konnte nieht mit Sicherheit bestimmt werden, weil es möglich ist, dass in den weissen diebten Kügelehen und Splittern, welche bie und da auftreten, aber der mikroskopischen Prüfung unzugänglieh sind, eine geringe Menge von einem solchen Mineral vorkommt. Im Olivin und Bronzit sind Einschlüsse von braunem Glas mit fixen Libellen häufig.
+
+Der ausführliche Bericht über den Meteoritenfall und die Untersuchung des Steines wird von mir und Herrn Professor Makowsky erstattet werden und in den Denkschriften der Akademie zum Abdrucke gelangen.

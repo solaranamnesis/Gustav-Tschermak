@@ -115,7 +115,7 @@ Die Menge des eigentlichen schwarzen Magma ist gering, denn die Hauptmasse alles
 
 Eine gesonderte chemische Untersuchung der Bruchstücke und der Bindemasse ist bisher noch nicht ausgeführt worden. Berzelius gab bloß die Analyse der Silicate der schwarzen Bindemasse, ohne die Menge des Eisens und des Magnetkieses zu bestimmen. Rammelsberg führt nicht an, welcher Art sein Material gewesen, wahrscheinlich waren beide Teile des Steines darin vertreten. Nach den Erfahrungen an dem Stein von Orvinio dürfte auch hier die Zusammensetzung der Bindemasse von der der Bruchstücke nur unbedeutend differieren. Ich vergleiche nun hier die von Rammelsberg erhaltenen Zahlen mit den früher angeführten in der Weise, dass in der ersteren Analyse die Daten für den in Säure auf löslichen und den unauflöslichen Teil vereinigt werden.
 
-Kieselsäure 37.38 33.01 36.82  
+Kieselsäure 37.38 38.01 36.82  
 Tonerde 2.53 2.22 2.31  
 Eisenoxydul 14.67 6.55 9.41  
 Manganoxydul 0.27 — —  

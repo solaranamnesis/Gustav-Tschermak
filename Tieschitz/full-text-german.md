@@ -30,6 +30,8 @@ Die Oberfläche des Steines zeigt namentlich auf den Randflächen häufig die ch
 
 Das Innere (es Meteorsteines ist aschgrau, im Bruche matt und uneben durch viele kleine Kügelchen und auch durch Splitter. Diese und jene zeigen eine tiefgraue bis weiße Farbe. Die Grundmasse hat einen erdigen Bruch, enthält außer dein Steinpulver auch zweierlei metallisch aussehende Körnchen. Die Kügelchen zeigen im durchfallenden Lichte die für Bronzit und für Olivin charakteristischen Texturen, die weißlichen Kügelchen und Splitter sind auf den eisenarmen Bronzit (Ensatit) zu beziehen. Diese Minerale haben viele Einschlüsse, sowohl solche von glasiger Beschaffenheit, als auch solche von metallischen Aussehen. Die Grundmasse besteht aus denselben Mineralien im Zustande feiner Zerteilung, ferner aus Partikeln von gediegenem Eisen und von Magnetkies. Demnach gehört dieser Meteorstein zu den Chondriten, und zwar zu denjenigen, welche in der von mir gegebene Einteilung* durch viele braune feinfaserige Kügelchen charakterisiert sind.
 
+*) Mineralog. Mitt. 1872, pag. 165.
+
 Nach einer Verabredung, weiche ich mit Herrn Professor Makowsky getroffen, soll der ausführliche Bericht über den Meteoritenfall von Tieschitz und die genaue Beschreibung des Steines von uns Beiden gemeinschaftlich in den Schriften der k. Akademie veröffentlicht werden. Die Beschreibung wird von mehreren Tafeln begleitet sein, für welche die photographischen Aufnahmen bereits in Brünn ausgeführt wurden. Die chemische Analyse hat gütigst Herr Professor Habermann übernommen, während Herr Professor v. Niessl sich der Mühe unterzog, die eingelaufenen Berichte über die an verschiedenen Punkten gehörte Detonation zusammenzustellen und zu einer beiläufigen Bahnbestimmung zu verwerten.
 
 ## (Zweiter Bericht.)
@@ -58,6 +60,8 @@ Das Volumgewicht des Steines ist 3.59.
 Die Untersuchung der Textur und mineralogischen Beschaffenheit wurde von mir ausgeführt, wobei sich mehrere wichtige Tatsachen ergaben.
 
 Der Stein gehört, wie schon früher bemerkt wurde, zu den Chondriten mit vielen braunen, harten, feinfaserigen Kügelchen. Bisher hatte ich in Meteoriten immer nur solche Kügelchen gefunden, welche kugelrund oder länglichrund waren und eine glatte oder rauhe Oberfläche darboten, die keine Unterbrechung der gleichförmigen Krümmung erkennen ließ. Da ich ferner in Übereinstimmung mit G. Rose den Mangel einer konzentrischen Anordnung als für die Kügelchen der Chondrit charakteristisch Übereinstimmung mit G. Rose den Mangel einer konzentrischen Anordnung als für die Kügelchen der Chondrit charakteristisch erkannte, so leitete mich die Form und Textur der Kügelchen zu der Vorstellung, dass die Kügelchen durch die bei vulkanischen Vorgängen eintretende Zerreibung zu dieser Gestalt gelangt seien.*
+
+*) Diese Berichte, Bd. LXXI. 2. Abt. April 1875.
 
 In dem Tieschitzer Stein finden sich aber Kügelchen mit runden Eindrücken, welche darauf hinweisen, dass manche Kügelchen plastisch und andere zu gleicher Zeit starr gewesen seien.
 

@@ -54,6 +54,95 @@ Manche von den steinartigen Meteoriten erscheinen kristallinisch-körnig, z. B. 
 
 Ein Gefüge, welches an der Mehrzahl der Steine bald in auffallender Weise, bald weniger deutlich ausgesprochen vorkommt, ist das chondritische. Kügelchen und überhaupt rundliche Körper, welche bald aus einem einzigen Kristallindividuum, bald aus mehreren bestehen, öfters auch aus verschiedenen Gemengteilen zusammengesetzt sind, bilden das Gestein fast allein (Borkut), oder sie lagern unverletzt, öfters auch zersplittert in einer lockeren bis festen Tuffmasse (Ausson). Die kugeligen Gebilde, welche gewöhnlich kleiner als erbsengross sind, werden von mir als Erstarrungsprodukte angesehen, oder, um es ungefähr anzudeuten, als erstarrte Tropfen. Die Grundmasse ist bisweilen schwarzgefärbt, z. B. in Renazzo, Grosnaja. Einige Steine zeigen eine fast gleichartige schwarze durch Kohle gefärbte Masse, wie jene von Cold Bokkeveld.
 
+Das chondritische Gefüge ist nur den Meteoriten eigentümlich, den tellurischen Felsarten aber fremd. Die Sphärulite in manchem Obsidian und Perlit sind zwar auch Silikatkügelchen, doch zeigen sie eine radiale Faserung um ihr Centrum, während die Chondren, wenn sie überhaupt faserig sind, eine excentrische Faserung besitzen, überdies ist hier und dort die Grundmasse von verschiedenem Gefüge.
+
+In manchen Steinen bemerkt man schwarze Klüfte, deren Füllung wiederum der schwarzen Grundmasse in den früher bezeichneten Breccien entspricht. Die Wände an der Kluft erscheinen bisweilen gegen einander verschoben. Beim Zerspringen erfolgt öfters eine Trennung nach diesen Klüften und die entstehenden Flächen sind striemig und metallisch glänzend, sie zeigen Harnische (Pultusk, Mocs, Murcia [?]).
+
+Die tuffartigen Meteorsteine sind fein porös. Flüssigkeiten werden begierig aufgesogen. Die Steine verhalten sich aber häufig so, als ob sie erhitzt oder gefrittet worden wären. Sie klingen beim Anschlagen wie die Backsteine. Selten sieht man grössere Poren, wie in dem Stein von Richmond. In jenem von Juvinas bemerkt man in den kleinen Hohlräumen Kristalle. In beiden Fällen erhalt man den Eindruck, als ob die Erscheinung von einer nachträglichen Erhitzung des Steines herrührte.
+
+**Gemengteile**. Die homogenen Teile, welche die Meteoriten zusammensetzen, bieten keine grosse Mannigfaltigkeit.
+
+_Eisen_. Reines Eisen und nickelhaltiges Eisen bilden die Hauptmasse des Meteoreisens, ferner die Grundmasse oder den Eisenschwamm der Uebergangsglieder zu den Meteorsteinen. In den letzteren sind auch oft noch zusammenhängende Eisenfäden vorhanden, endlich ist das Eisen blos in Form getrennter Partikelchen verteilt.
+
+_Graphit_ erscheint in knollenförmigen Einschlüssen in manchen Meteoreisen und umgibt manchmal die Troilite.
+
+_Schreibersit_ (Phosphornickeleisen, Rhabdit) ist oft in unregelmässigen, scharfkantigen, tafelförmigen oder in nadelförmigen Einschlüssen im Meteoreisen verteilt.
+
+_Troilit_ und _Magnetkies_. In den Eisenmassen bildet das Einfach-Schwefeleisen FeS, welches Haidinger Troilit nannte, kleinere oder grössere knollige, öfters auch tafelförmige Einschlüsse. In den Steinen ist das Schwefeleisen etwas heller gefärbt. Seine Zusammensetzung entspricht dem Magnetkies und hat auch dessen Form. Nach Brezina hat auch der Troilit die Magnetkiesform. Seltenere Schwefelverbindungen sind der dichte schwarze Daubreelit, welcher Chrom, Eisen und Schwefel enthält und der Oldhamit CaS, endlich der Osbornit.
+
+_Chromit_. In vielen Meteoriten in Körnern oder oktaëdrischen Kristallen enthalten.
+
+Selten ist der _Magnetit_, bisher blos im Stein von Shergotty, und der Tridymit (Asmanit) bisher nur in den Massen von Breitenbach und Rittersgrün.
+
+_Olivin_. In ziemlich grossen Kristallen und Körnern, in einigen porphyrartigen Meteoreisen und Uebergangsgliedern, ferner in allen Chondriten und einigen anderen Meteoritenarten. Für sich allein bildet er den Stein von Chassigny.
+
+_Bronzit_. Sowohl die fast farblose oder weisse eisenarme Verbindung Enstatit als auch der eisenhaltige Bronzit, endlich auch das von den Mineralogen als Hypersthen bezeichnete eisenreiche Glied ist in den Meteoriten repräsentirt. Die Verbreitung ist die gleiche wie beim Olivin, auch bildet der Bronzit für sich eine Meteoritenart.
+
+_Augit_. Kristalle von der Form des Augits, aber von geringerem Kalkgehalte als der tellurische Pyroxen, wurden in mehreren Steinen beobachtet. In der Form grösserer und kleinerer Körnchen ist er auch in anderen ziemlich verbreitet. Bronzit und Augit werde ich öfters als "Pyroxene" zusammenfassen.
+
+_Anorthit_. In mehreren Steinen wurden Kristalle und Körner von Anorthit als wesentlicher Gemengteil erkannt. In vielen Steinen finden sich Körner von _Plagioklas_, der wohl nicht immer die Zusammensetzung des Anorthits haben dürfte. Merkwürdig ist der
+
+_Maskelynit_ von Plagioklas-Zusammensetzung, jedoch von einfacher Lichtbrechung.
+
+_Glas_. Ausser den kristallisirten und kristallinischen Gemengteilen kommen öfters auch glasartige vor. Die einen sind farblos, dem Maskelynit ähnlich, die anderen farbig, meist braun, öfters mit Anfängen der Entglasung. Diese dürften vorzugsweise Magnesiasilikat enthalten.
+
+_Kohle_ und schmelzbare, in Alkohol auflösliche Kohlenwasserstoffe wurden in schwarzen Meteoriten nachgewiesen, als Seltenheit ein Carbonat von der Beschaffenheit des Breunnerits. Das in solchen Steinen gefundene Wasser halten Viele für nachträglich aufgenommen, weil die übrigen Meteoriten kein Wasser enthalten, ferner die gefundenen Sulfate für sekundäre Bildungen, hervorgerufen durch die Verwitterung des enthaltenen Schwefeleisens.
+
+Es bleibt noch zu bemerken, dass in manchen Schriften solche Bestandteile von Meteoriten angegeben warden, welche nicht nachgewiesen sind, wie z. B. Blei, Eisenkies, Leucit, Schwefel, oder welche mit neuen Namen belegt wurden, sich später aber als etwas Bekanntes erwiesen, wie Shepardit, Piddingtonit.
+
+**Einteilung**. G. Rose hat eine Einteilung der Meteoriten nach den herrschenden Gemengteilen vorgeschlagen, die mit den Meteoreisen beginnt und mit denjenigen Steinen schliesst, welche die meiste Aehnlichkeit mit tellurischen Felsarten haben.* Diese Folge verläuft ungefähr im selben Sinne, wie die Abnahme des specifischen Gewichtes und ist insofern eine geologische zu nennen, als nach der Parallele, welche von Daubrée zwischen der Zusammensetzung der Meteoriten und jener unseres Planeten gezogen wurde, zuerst der angenommene metallische Kern der Erde als die älteste Bildung, hierauf die specifisch leichteren Silikatmassen als die jüngeren Bildungen in Betracht kommen.* Wenn die Meteoriten Splitter sind, welche von einem oder von mehreren kleinen planetarischen Körpern herrühren, so wird man sich jedes solche kleine Gestirn ähnlich wie die Erde gebaut denken, also in der Vorstellung eine metallische Kugel mit einer Silikatrinde construiren, welche letztere aus Erstarrungsprodukten und aus Tuffmassen bestand.*
+
+*) Beschreibung und Einteilung der Meteoriten. Berlin, 1864.
+
+*) Etudes recentes sur les Metéorites. Journal de savants 1870.
+
+*) Tschermak. Die Bildung der Meteoriten und der Vulcanismus. Sitzungsber. d. Wiener Akad. Bd. 71. Abt. 2. (1875.)
+
+Die Rose'sche Einteilung lasst sich demnach als eine solche betrachten, welche den gegenwärtigen Vorstellungen von der Bildungsfolge Rechnung trägt und kann daher als eine natürliche bezeichnet werden. Trotzdem werde ich hier nicht diese, sondern die umgekehrte Anordnung befolgen, weil es mir fur den vorliegenden Fall zweckmässiger scheint, mit jenen Meteoriten zu beginnen, welche die meisten Anknüpfungspunkte an die bekannten Felsarten darbieten.
+
+Die Abteilungen werden folgende sein:
+
+1\. Calciumreiche Steine, arm an gediegenem Eisen.  
+2\. Magnesiumreiche Steine, arm an gediegenem Eisen.  
+3\. Magnesiumreiche chondritische Steine mit gediegenem Eisen.  
+4\. Eisen mit Silikaten.  
+5\. Meteoreisen.
+
+Innerhalb dieser Abteilungen werden den Grundsätzen der Petrographie gemäss einzelne Meteoritenarten unterschieden, deren jede ein besonderes Gemenge oder eine eigentümliche Struktur darbietet. Zu den von G. Rose aufgestellten Arten sind noch einige hinzugekommen, welche ich schon in dem Verzeichnisse von 1872 angegeben habe.* Durch meine letzten Untersuchungen ist die Zusammensetzung einiger schon früher unterschiedener Abteilungen genauer bestimmt, ferner sind neue bekannt geworden, so dass in einigen Fallen eine Umstellung und Neubenennung erforderlich wurde.
+
+*) Mineralogische Mitteilungen 1872, p. 165.
+
+Die bis jetzt bekannten Meteoritenarten sind:
+
+1\. Die wesentlichen Gemengteile sind Pyroxene und Plagioklase. Die Rinde ist glänzend.  
+_Eukrit_ G. Rose. Augit und Anorthit, statt des letzteren auch Maskelynit.  
+_Howardit_ G. Rose. Augit, Bronzit, Anorthit.
+
+2\. Pyroxene und Olivine bilden die wesentlichen Gemengteile. Die Rinde ist wenig glänzend bis matt, ebenso in den folgenden Abteilungen.  
+_Bustit_ Autor. Diopsid und Enstatit.  
+_Chladnit_ G. Rose. Enstatit mit wenig Anorthit.  
+_Diogenit_ Aut. Bronzit.  
+_Amphoterit_ Aut. Bronzit und Olivin.  
+_Chassignit_ G. Rose. Olivin.
+
+3\. Bronzit, Olivin, Eisen als wesentliche Gemengteile.  
+_Chondrit_ G. Rose. Textur chondritisch.  
+
+4\. Eisen, netzförmig, darin Silikate: Plagioklas, Olivin, Pyroxene, Troilit.  
+_Grahamit_ Aut. Plagioklas, Bronzit, Augit im Eisen.  
+_Siderophyr_ Aut. Bronzit im Eisen.  
+_Mesosiderit_ G. Rose. Bronzit, Olivin im Eisen.  
+_Pallasit_ G. Rose. Olivin im Eisen.
+
+5\. Eisen mit untergeordnetem Troilit, Schreibersit _etc._
+_Meteoreisen_.
+
+Den Namen Shalkit, welchen G. Rose für das Gemenge von Bronzit und Olivin vorgeschlagen hatte, habe ich aufgegeben, weil für den Meteorstein von Shalka widersprechende Resultate bekannt wurden. Statt dessen will ich die Bezeichnung Amphoterit vorschlagen, ferner für die aus Bronzit allein bestehenden Steine den Namen Diogenit.* Die neue Meteoritenart unter 4. musste auch durch eine Bezeichnung unterschieden werden, wofür ich Grahamit* wählte, endlich waren auch die Massen von Breitenbach und Rittersgrün als eine besondere Art (Siderophyr) hervorzuheben.
+
+*) Nach Diogenes von Apollonia, welcher zuerst klare Vorstellungen über den kosmischen Ursprung und die siderische Natur der Meteoriten aussprach.
+
+*) Nach dem Chemiker Graham benannt, welcher den in Meteoreisen absorbirt enthaltenen Wasserstoff entdeckte.
+
 ...
 
 # Erklärung der Tafel 1.

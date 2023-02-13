@@ -10,6 +10,38 @@
 
 #### E. Schweizerbart'sche Verlagshandlung (E. Koch).
 
+# Ankündigung.
+
+Da in dem jetzt abgeschlossenen Werk von Herrn Prof. Tschermak nur die Meteorsteine Berücksichtigung finden, so haben die Herren A. Brezina und E. Cohen es übernommen, eine wünschenswerthe Ergänzung durch ähnliche Behandlung der Meteoreisen zu liefern. Mit der Bearbeitung derselben ist schon begonnen worden, und die bisherigen Aufnahmen, welche natürlich im reflectirten Licht stattfinden müssen, haben durchaus befriedigende Resultate geliefert. Es wird das Haupfgewicht darauf gelegt werden, alle wichtigeren Structurformen zur Darstellung zu bringen, welche beim Aetzen polirter Platten hervortreten. Ferner werden die Reichenbach'schen Lamellen, die Art des Auftretens accessorischer Gemengteile, Veränderungen in der Structur in der Nähe der Brandrinde u. s. w. zur Darstellung gelangen.
+
+Unterzeichnete Verlagshandlung hofft, dass die erste Lieferung bis Ostern 1886 erscheinen kann. Auch für dieses Werk sind zunächst drei Lieferungen in Aussicht genommen.
+
+Stuttgart, 15. Juli 1885.
+
+E. Schweizerbart'sche Verlagshandlung (E. Koch).
+
+# Vorwort 
+
+Nur Wenigen ist es vergönnt, die Meteoriten genauer kennen zu lernen und doch ist es der Wunsch Vieler sich mit den wichtigsten Eigenschaften dieser Körper vertraut zu machen, welche aus fernen Himmelsräumen zur Erde gelangt, uns über einen Teil der Sternenwelt unmittelbare Nachricht bringen. Die Meteoriten, diese Splitter untergegangener oder vielleicht noch kreisender planetarischer Massen, geben uns eine früher ungeahnte Gelegenheit, fremde kosmische Körper mit den Händen zu greifen, zu wägen, zu messen, zu zerlegen, mit allen Mitteln der Mineralogie und Chemie zu prüfen. Was wir an ihnen wahrnehmen, erlaubt uns wichtige Combinationen mit den Resultaten astronomischer Beobachtung sowie direkte Vergleiche mit der Steinrinde unseres Planeten. Diese bilden die Grundlage interessanter und bedeutungsvoller Schlüsse, die weit über den Bereich unserer Wohnstätte hinausreichend unser Wissen und Vermuten über die früheren Zustände sowohl der Erde als auch der ganzen Sternenwelt erheblich zu vervollkommnen geeignet sind.
+
+Der Versuch, die Kenntniss von der Zusammensetzung dieser merkwürdigen Körper einem grösseren Kreise zugänglich zu machen, dürfte daher von Vielen gebilligt werden. Für eine umfangreiche systematische Darstellung scheint es mir aber etwas zu frühe, weil manche der einfacheren Fälle noch nicht genügend untersucht sind. Dagegen halte ich es für nützlich, jenen Weg einzuschlagen, welcher die Grundlage für die fernere schriftliche Verstandigung bietet, nämlich die Publication guter Abbildungen. Solche mangeln für einige Abteilungen der Meteoriten gänzlich, die vorhandenen aber sind in verschiedenen Werken und Zeitschriften verstreut. Schon die Sammlung der bisher veröffentlichten Zeichnungen wäre vorteilhaft, besser aber ist es, wenn es gelingt, nicht blos das bisher dargestellte in getreuen Bildern wiederzugeben, sondern alles überhaupt Wichtige in gleicher Weise zu illustriren.
+
+Derlei Bilder können entweder die äussere Form und die Beschaffenheit der Oberfläche schildern oder das Gefüge und die mineralogische Zusammensetzung der Meteoriten darstellen. Das erstere hat eine besondere Bedeutung für die Naturgeschichte der Meteoriten, das letztere ein allgemeineres Interesse, weil nicht nur der Bestand jener kosmischen Körper zur Anschauung gebracht, sondern auch der Vergleich mit der Textur der Gesteine und der Ausbildung der tellurischen Minerale ermöglicht wird. Demnach mag der Versuch gerechtfertigt erscheinen, durch Auswahl guter Beispiele das Gefüge und den Bestand jener Meteoriten, welche die Prüfung im durchfallenden Lichte gestatten, auf die bestmögliche Weise zur Anschauung zu bringen. Ich glaubte deshalb eine dahin gerichtete Anfrage des Herrn Prof. E. Cohen in Strassburg, welcher sich durch die Herausgabe der "Sammlung von Mikrophotographieen zur Veranschaulichung der mikroskopischen Struktur von Mineralien und Gesteinen" so sehr verdient gemacht hat, in Betracht nehmen und der Aufforderung des Herrn J. Grimm, welcher jene Bilder in so vorzüglicher Ausführung herstellte, sowie jener des Herrn Verlegers E. Koch entsprechen zu sollen, obgleich ich im Augenblicke schon durch die Herausgabe eines Lehrbuches der Mineralogie und andere Arbeiten in Anspruch genommen bin und obgleich mir die Schwierigkeit der Beschaffung des Materials keine geringe zu sein schien.
+
+Da manche der in Betracht kommenden Meteoriten durch Kauf nicht zu erhalten sind, so war ich in mehreren Fällen auf die Bereitwilligkeit der Herren Museumsvorstände und Besitzer von Meteoritensammlungen hingewiesen. Es freut mich, sagen zu können, dass ich von mehreren Seiten durch leihweise Ueberlassung von Präparaten (P), durch Ueberlassung von Splittern als Geschenk (G) oder im Tausche (T) in zuvorkommender Weise unterstützt wurde, und zwar von folgenden Herren, denen ich hiermit den gebührenden Dank ausspreche:
+
+Herr Direktor Dr. S. Aichhorn in Graz (T), Se. Excellenz Hr. Geheimrath Freiherr v. Braun in Wien (G), Hr. A. Fauser in Pest (G), Hr. Oberbergdirektor Dr. C. W. v. Gümbel in München (P), Hr. Intendant Dr. F. v. Hochstetter in Wien (P), durch freundliche Vermittelung des Hrn. Dr. A. Brezina, Hr. Professor Dr. J. A. Krenner in Pest (G), Hr. Professor A. v. Lasaulx in Bonn (P), Hr. Nevil-Story Maskelyne in Salthrop (P), Hr. Oberbergrath M. Websky in Berlin (P), Hr. Oberbergrath v. Zepharovich in Prag (G), Hr. Professor F. Zirkel in Leipzig (P). Für die eifrige Mithilfe bei der Bearbeitung des Materials bin ich Hrn. Dr. Max Schuster zu vielem Danke verpflichtet.
+
+Die mir vorliegende Aufgabe habe ich so aufgefasst, dass es vor allem nöthig sei, Bilder zusammen zu stellen, welche das Gefüge und die Gemengteile von Repräsentanten aller Abteilungen der Meteorsteine darstellen, dass hingegen die Wiedergabe der mikroskopischen Verhältnisse von weniger allgemeiner Bedeutung vorläufig wegbleiben könne. Die vorliegenden Tafeln sollen demnach dem Besitzer gleichsam eine systematische Präparatensammlung ersetzen, ihm die Beurteilung der Meteorsteine nach ihrer inneren Beschaffenheit ermöglichen und im vorkommenden Falle die Bestimmung der Gemengteile erleichtern.
+
+Für die vorliegende Sammlung wurden drei Hefte zu acht Tafeln in Aussicht genommen, welche zugleich mit dem Texte alle Abteilungen der Meteoriten mit Ausnahme der silikatfreien Eisenmassen in systematischer Folge behandeln.
+
+Wien im Mai 1883.
+
+G. Tschermak.
+
+# Allgemeines über die Beschaffenheit der Meteoriten.
+
 ...
 
 # Erklärung der Tafel 1.

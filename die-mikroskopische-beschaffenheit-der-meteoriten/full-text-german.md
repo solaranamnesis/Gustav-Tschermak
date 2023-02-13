@@ -14,7 +14,7 @@
 
 # Erklärung der Tafel 1.
 
-Tafel 1: Figur 1 --- Eukrit von Juvinas. Eine Stelle von gröberer Textur im polaris. Lichte. Vergrößerung 75.
+[Tafel 1: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/1-1.png) --- Eukrit von Juvinas. Eine Stelle von gröberer Textur im polaris. Lichte. Vergrößerung 75.
 
 Tafel 1: Figur 2 --- Eisenhaltiger tellurischer Eukrit von Ovifak im polaris. Lichte. Vergrößerung 75.
 

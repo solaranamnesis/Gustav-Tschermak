@@ -143,6 +143,58 @@ Den Namen Shalkit, welchen G. Rose für das Gemenge von Bronzit und Olivin vorge
 
 *) Nach dem Chemiker Graham benannt, welcher den in Meteoreisen absorbirt enthaltenen Wasserstoff entdeckte.
 
+# Beschreibung der dargestellten Arten.
+
+## 1\.
+
+**Eukrit**. Hierher gehören die Steine von Juvinas, Jonzac, Stannern, Petersborough, Constantinopel. Sie sind wesentlich Gemenge von Augit und Anorthit. Am besten ist der Stein von Juvinas untersucht.
+
+Das Gefüge ist, wie schon G. Rose a. a. O. bemerkte, an verschiedenen Stellen sehr verschieden indem kristallinisch-kleinkörnige und undeutlich feinkörnige Gemenge wechseln. Die letzteren erscheinen unter dem Mikroskop kristallinisch bis tuffartig. Das Ganze hat also einen undeutlich breccienartigen Charakter. (Taf. 1, Fig. 1, 3.)
+
+Der Anorthit ist deutlich auskristallisirt. Die eingeschlossenen Kristalle zeigen scharfe Umrisse, die in kleinen Drusenräumen sitzenden haben eine durch Vorherrschen von M = (0 1 0) tafelförmige Gestalt, an welcher noch die Flachen T, _l_, P, _x_ zu bemerken sind.
+
+Die Kristalle sind teils wasserhell, teils durch Einschlüsse getrübt und weiss. Bei starker Vergrösserung erkennt man teils rundliche Glaseinschlüsse teils feine nadelförmige Gestalten, welche den Randzonen parallel angeordnet erscheinen. Das optische Verhalten ist im übrigen dasselbe, wie an dem Anorthit vom Vesuv.
+
+Die eingeschlossenen Kristalle sind meist zwillingsartig gebaut oder sie erweisen sich als Zwillingsstöcke von complicirter Zusammensetzung. Ihre Grösse beträgt oft 2 mm. Im Dünnschliff erscheinen dieselben im auffallenden Lichte bläulich, im durchfallenden bräunlich. Sie sind ungemein reich an sehr kleinen Einschlüssen, die meistens farblos und nur selten braun gefärbt befunden werden. Die meisten Einschlüsse sind rundlich, manche aber auch langgestreckt, alle zeigen sehr schmale Contouren. Zuweilen haben sie eine Libelle, einige wenige enthalten ein schwarzes Körnchen. Auf das polarisirte Licht üben sie keine Wirkung. Ihre Anordnung entspricht immer der äusseren Begrenzung, die länglichen sind meistens zur Längsausdehnung der Kristalle parallel gestreckt. Man darf sonach die rundlichen wie die gestreckten als Glaseinschlüsse ansehen. Einschlüsse mit breiter Contour, welche sich als Gasporen erkennen lassen, sind selten. (Taf. 1, Fig. 1; Taf. 2, Fig. 2, 3, 4.)
+
+Die Augitkristalle, welche in den Drusenräumen auftreten, sind braunschwarz. Die Form ist dieselbe wie bei manchem Diopsid, indem gewöhnlich _c_ = (0 0 1), _u_ = (1 1 1), _o_ = (2′ 2 1), _a_ = (1 0 0), _m_ = (1 1 0) und _b_ = (0 1 0) auftreten.
+
+Die Auslöschung auf der Längsfläche gibt einen Winkel von 52° 10′, während derselbe Winkel für Diopsid von Ala = 51° 6′ n. Des Cl. Blättchen parallel _a_ = 100 geben das Bild einer optischen Axe in ähnlicher Lage wie der Diopsid von Ala.
+
+Die Schnitte parallel _a_ und _b_ lassen die Kristalle aus unzähligen dünnen Lamellen parallel _c_ aufgebaut erscheinen. An manchen Stellen kann man fast mit Sicherheit erkennen, dass eine wiederholte Zwillingsbildung nach _c_ die Ursache ist, also genau so wie bei der entsprechenden schaligen Zusammensetzung der Diopside. Die schwarze Farbe des Augits rührt von zahllosen Einschlüssen her, welche meist schwarz seltener braun sind, teils nadelförmig teils rundlich geformt erscheinen. Die braunen rundlichen erweisen sich als Glaseinschlüsse, was die nadelförmigen sind, liess sich nicht bestimmen. Die rundlichen und staubartigen sind vorzugsweise der Endfläche _c_ = 0 0 1 parallel angeordnet, die nadelförmigen der aufrechten Axe parallel gelagert.
+
+Die im Gestein eingeschlossenen Augite sind unvollkommene Kristalle oder Körner ohne geradlinige Umrisse, voll von den eben genannten Einschlüssen und häufig durch Quersprünge gegliedert. An den Wänden der Sprünge zeigen sich die Einschlüsse oft so sehr vermindert, dass man die blass bräunliche Farbe des reinen Diopsids wahrnimmt. Dagegen sind die Sprünge mit schwarzer Masse erfüllt. Es sieht so aus, als ob die Substanz der Einschlüsse aus den Wänden in die Klüfte gewandert wäre. (Taf. 1, Fig. 1, 3; Taf. 3, Fig. 1.)
+
+Ein fernerer Gemengteil ist jenes gelbe Silikat, welches schon G. Rose in der Form kleiner Blättchen wahrnahm. Dieselben finden sich hie und da in der Grundmasse, an manchen Punkten ragen sie in die Drusenräume oder setzen durch diese hindurch. Im Dünnschliffe zeigt sich, dass dieselben aus winzigen Körnchen von blass bräunlicher Farbe bestehen and dass sie an vielen Stellen dieselbe feine Lamellentextur wie der vorbeschriebene Augit besitzen. Die Schmelzbarkeit zu schwarzem Glase stimmt zu dieser Aehnlichkeit, so dass man wohl kaum irre gehen wird, diese blassen Körnchen für Diopsid ohne schwarze Einschlüsse zu halten. Die Blättchen erscheinen demnach wie Pseudomorphosen nach einem nicht angebbaren Silikat. Im Dünnschliff zeigt sich aber, dass das gelbe Silikat nicht nur in dieser Form, sondern auch in verschiedenen körnigen Partikeln in der Grundmasse unregelmässig verteilt sei und die Maschen zwischen den kleinen Anorthitkristallchen der Grundmasse ausfülle.
+
+Obwohl man sich den Vorgang nicht leicht erklären kann, so macht doch alles dies den Eindruck, als ob die früher tuffartige Grundmasse umgeschmolzen wäre, wobei wieder Anorthit, andererseits aber gereinigter Diopsid auskristallisirt wären. Die gelben Blättchen wären dann Paramorphosen. Die Umschmelzung der porösen Grundmasse würde auch die Entstehung der vielen kleinen Drusenräume begreiflich machen. Von opaken Gemengteilen, die aber nur in geringer Menge vorhanden sind, kennt man Magnetkies, Chromit und Nickeleisen.
+
+Den Magnetkies hat G. Rose in Drusenräumen kristallisirt gefunden und die Form bestimmt, ferner auch das sparsame Vorkommen von Nickeleisen beobachtet. Ich fand ausserdem eisenschwarze Körnchen, welche das Verhalten des Chromits zeigen.
+
+Der Meteorit von Stannern ist dem vorigen sehr ähnlich, doch zeigt er schon eine ausgesprochene Tuffstruktur.* An demselben Stücke sieht man deutlich körnige, kleine strahlige und fast dichte Splitter und Trümmer neben einander. Einzelne Steine sind körnig wie der von Juvinas, andere sind viel dunkler gefärbt von feinkörnigem bis dichtem Gefüge.
+
+*) G. Rose a. a. O. und Tschermak. Mineralogische Mitteilungen 1872, p. 83.
+
+Der Anorthit und der Augit haben dieselben Eigenschaften wie im Stein von Juvinas, nur sieht man scharfe Kristallumrisse seltener, dagegen häufig eine Verwachsung von beiden Mineralen, wobei dieselben oft als abwechselnde Platten erscheinen. Das gelbe Silikat und der Magnetkies sind auch zu erkennen. (Taf. 2, Fig. 1; Taf. 3, Fig. 3.)
+
+Die Meteoriten von Jonzac sind jenem von Juvinas ungemein ähnlich, der von Petersborough in Tennessee nähert sich in seiner Beschaffenheit nach G. Rose dem Stein von Stannern.
+
+Zu den Eukriten ist ferner noch der Meteorit von Shergotty zu zählen, den ich vor Jahren beschrieb.* Derselbe ist ein deutlich körniges Gemenge, wesentlich bestehend aus gelblich grauen matten Körnchen und Prismen, welche als ein Augit bestimmt wurden, ferner aus wasserhellen glasigen Körnchen und Säulchen, welche auf kein bisher bekanntes Mineral zu beziehen sind und von mir als Maskelynit bezeichnet wurden.
+
+*) Sitzungsberichte der Wiener Akad. Bd. 65. Abt. 1, p. 122 and Tschermak's Mineralog. Mitteil. 1872, p. 87.
+
+Der Augit verhält sich in durchfallendem Lichte wie der vulkanische Augit, er erscheint lichtbraun, fast ganz frei von Einschlüssen. Eine Zwillingsbildung nach a ist ziemlich häufig, jedoch ohne Wiederholung. Die Trübung, welche ihm ein fremdartiges Aussehen verleiht, bleibt ihm teilweise auch im durchfallenden Lichte. Dieselbe rührt von ungemein feinen unregelmässigen Sprüngen her, welche schliessen lassen, dass der Augit eine mechanische Veränderung erfahren habe. Durch diese Beschaffenheit ist er von dem tellurischen Augit verschieden, ebenso durch die chemische Zusammensetzung, da er weniger Kalk enthält. Der Maskelynit ist vollkommen farblos und wasserhell. Er zeigt im Dünnschliffe meist langgestreckte Umrisse und parallel der Länge feine Linien, so dass er im gewöhnlichen Lichte ganz und gar den Eindruck von Plagioklas hervorruft. Die chemische Zusammensetzung entspricht gleichfalls einem Plagioklas aus der Labradoritreihe. Im polarisirten Lichte löscht er aber vollkommen aus, erweist sich also einfach brechend. Die Sprünge in demselben entsprechen einem deutlich muscheligen Bruche wie bei einem Glas. Demnach verhält sich der Maskelynit wie ein durch Schmelzung oder überhaupt durch blosse mechanische Veränderung in den amorphen Zustand übergeführter Labradorit.
+
+Einschlüsse sind in demselben öfters zu bemerken. Sie sind ganz unregelmässig geformt und bestehen aus Augit und aus Magnetit.
+
+Stellenweise zeigen sich weisse trübe Partikel, welche nur trüber Maskelynit sind, ferner sehr sparsam ein gelbes Silikat, welches ungemein kleine Körnchen bildet und sich optisch zweiaxig verhält.
+
+Von opaken Gemengteilen wurden zwei erkannt. Der eine ist Magnetit, welcher hier zum erstenmale als Gemengteil eines Meteoriten gefunden wurde, der zweite, sehr spärlich verbreitete, Magnetkies.
+
+**Howardit**. Nach den bis jetzt bekannten Untersuchungen sind hierher zu rechnen die Meteoriten von Massing, Loutolaks, Bialystock, Le Teilleul, Nobleborough, Francfort. Darunter sind die beiden zuerst angeführten am besten bekannt.
+
+Der Meteorit von Loutolaks hat ein tuffartiges Gefüge. In einer erdigen lockeren grauen Grundmasse liegen Splitter und Körner von grüngelber weisser und schwarzer Farbe, ferner auch kleine Bruchstücke eines Gemenges, welches leicht als Eukrit zu erkennen ist.
+
 ...
 
 # Erklärung der Tafel 1.

@@ -445,6 +445,14 @@ Mai 1885.
 
 # Erklärung der Tafel 1.
 
+Figur 1. Gibt ein Bild von der Zusammensetzung des Meteoriten von Juvinas. Die gestreckten Kristalle, welche bei Anwendung von polarisirtem Lichte aus farbigen Lamellen zusammengesetzt erscheinen, sind Anorthit, die braunen oft schwarz gestreiften Körner aber Augit. Braunschwarze bis rabenschwarze Körnchen werden auf Chromit bezogen.
+
+Figur 2. Zum Vergleiche mit den Meteoriten ist hier auch ein Bild von jenem Gestein aufgenommen, welches als Einschluss im Basalt von Ovifak in Grönland gefunden wurde, und aus Anorthit, Augit, Nickeleisen und einem dem Hisingerit ähnlichen Silikat besteht. Zuerst wurden diese eukritischen Einschlüsse, sowie die im Basalt und lose gefundenen Eisenklumpen von Nordenskiöld für Meteoriten gehalten, gegenwärtig werden dieselben den Beobachtungen Steenstrup's zufolge von den meisten Forachem für tellurisch erklärt. Im Bilde treten die langgestreckten Anorthitkristalle deutlich hervor, die dunkleren Körner sind Augit, die vollständig schwarzen Teile Nickeleisen mit Rinde von einem braunschwarzen hisingeritartigen Mineral. Weder der Anorthit noch der Augit zeigen solche Einschlüsse wie die entsprechenden Kristalle der Meteoriten.
+
+Figur 3. Gibt den Charakter vieler Stellen im Eukrit von Juvinas wieder. Zuerst fallen die grossen Körner von Augit auf, da sie durch schwarze Einschlüsse wie liniirt aussehen. Sie zeigen hellfarbig begrenzte Quersprünge, die oft mit einer schwarzen Masse gefüllt sind. Auf der linken Seite bemerkt man ein Bruchstück von farblosem Anorthit mit feinen punktartigen Einschlüssen. Diese gröberen Stücke von Augit und Anorthit erscheinen durch eine feinkristallinische Masse verbunden, deren Beschaffenheit oben am Rande des Bildes wahrzunehmen ist. Längliche Anorthitkriställchen bilden Maschen, in welchen ein gelbes Silikat liegt. Dieses hat auch die Eigenschaften des Augits.
+
+Figur 4. Stellt eine für die Bildungsgeschichte des Eukrits von Juvinas wichtige Stelle dar. Breite Kristalle von Anorthit und Körner von dunklem Augit bilden ein gröberes Gemenge. Der gelbe feinkörnige Augit erscheint in zwei Streifen, welche Durchschnitte von Lamellen sind. Letztere können als Pseudomorphosen gedeutet werden. Auch in der Grundmasse ist gelber kleinkörniger Augit verteilt.
+
 [Tafel 1: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/1-1.png) --- Eukrit von Juvinas. Eine Stelle von gröberer Textur im polaris. Lichte. Vergrößerung 75.
 
 [Tafel 1: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/1-2.png) --- Eisenhaltiger tellurischer Eukrit von Ovifak im polaris. Lichte. Vergrößerung 75.
@@ -454,6 +462,14 @@ Mai 1885.
 [Tafel 1: Figur 4](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/1-4.png) --- Eukrit von Juvinas. Mit Durchschnitten von Lamellen eines gelben Silikates. Vergrößerung 75.
 
 # Erklärung der Tafel 2.
+
+Figur 1. Ist das Bild eines Anorthitindividuums, welches in der tuffartigen Masse des Eukrits von Stannern liegt. Vom früheren Kristallumriss ist nur an der linken Seite etwas zu erkennen. Die langen Linien liegen parallel M = (0 1 0) und zeigen die Grenzen der Zwillingslamellen an, welche hier ungewöhnlich zahlreich sind. Diese Grenzen sind öfters mit kleinen rundlichen Glaseinschlüssen und länglichen Gasporen besetzt. Die kurzen, zu den vorgenannten beiläufig senkrechten Linien sind linear angeordnete längliche Glaseinschlüsse oder auch Sprünge. Die beiden anderen Systeme kurzer Linien, welche den Prismenflächen T = (1 1′ 0) und _l_ = (1 1 0) parallel sind, haben denselben Charakter wie die vorigen.
+
+Figur 2. Liefert ein Bild von der gewöhnlichen Beschaffenheit des Innern der Anorthitkristalle im Eukrit von Juvinas. Es ist das Ende einer gehäuften Zwillingsgruppe dargestellt Man bemerkt unzählige kleine rundliche Glaseinschlüsse, welche zuweilen perlschnurartig aneinander gereiht sind und überhaupt eine Tendenz zu reihenförmiger Anordnung zeigen. Die Mehrzahl derselben sind submikroskopisch und bedingen den blaulichen Farbenton der Anorthitblättchen im auffallenden, den blass braunen im durchfallenden Lichte.
+
+Figur 3. Zeigt die innere Beschaffenheit mancher Anorthitkristalle im Stein von Juvinas, vieler im Eukrit von Stannern an. Die rundlichen Glaseinschlüsse sind in geringer Zahl vorhanden, dagegen treten viele langgestreckte Glaseinschlüsse auf, die im Bilde verschiedene Richtungen zeigen, da die Anorthitparthie aus mehreren Individuen zusammengesetzt ist. Die Grundmasse besteht aus kleinkörnigem Augit und opaken Körnern von Magnetkies.
+
+Figur 4. Um den für Anorthit charakteristischen Zwillingsbau darzustellen, wurde auch ein Bild aufgenommen, welches das abgebrochene Ende eines Kristalls im polarisirten Lichte gesehen darstellt. Die Zwillingslamellen sind von sehr ungleicher Dicke. Einschlüsse parallel M und auch ungefähr senkrecht dazu gelagert sind bemerklich, ebenso zwei Sprünge in der letzteren Richtung. Das Kristallbruchstück ist von körnigem Augit und Magnetkies umgeben.
 
 [Tafel 2: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/2-1.png) --- Anorthit in dem Eukrit von Stannern. Vergrößerung 160.
 
@@ -465,6 +481,14 @@ Mai 1885.
 
 # Erklärung der Tafel 3.
 
+Figur 1. Ein Durchschnitt des braunen Augits, welcher einen Hauptgemengteil der Eukrite von Juvinas und Stannern bildet. Die zahlreichen dunklen Streifen, welche im Bilde nach rechts geneigt sind, bestehen aus braunen bis schwarzen Körnern und aus braunen Glaseinschlüssen. Sie lagern der Endfläche (0 0 1) parallel. Untergeordnet erscheint ein zweites Streifensystem, welches gegen links geneigt ist. Ueberdies machen sich Sprünge bemerkbar, welche nach zwei Richtungen verlaufen und der prismatischen Spaltbarkeit entsprechen.
+
+Figur 2. Der gelbe kornige Augit, welcher schon auf Taf. 1, Fig. 4 in streifenformigen Durchschnitten dargestellt wurde, welcher sich aber auch ofters zwischen den Krystallen von Augit und Anorthit mit unbestimmten Umrissen ausbreitet oder zwischenklemmt, bei starkerer Vergrosserung. An mehreren Stellen ist die feinschalige Zusammensetzung der Korner parallel (0 0 1) bemerklich, welche in den Mineralen der Diopsidreihe so hiiufig beobachtet wird. Kleine opake Korner sind in der kornigen Masse oft schwarmweise vertheilt. Die Umgebung bilden Krystalle von Anorthit und ein Korn von Magnetkies.
+
+Figur 3. Um die charakteristische Textur der Meteoriten von Stannern, welche aber auch in jenen von Juvinas stellenweise zu beobachten ist anzudeuten, wurde ein Bild aufgenommen, in dem die Korner und Splitter des farblosen Anorthits von der gleichformig aussehenden aus Augitsplittern bestehenden Grundmasse umgeben erscheinen. In dem grossen Individuum von Anorthit bemerkt man als Beispiel der hier gewohnlichen Erscheinung einen Einschluss von Augit. Nirgendsfindensich Krystallumrisse. Die Augitkorner lassen haufig die feinen schwarzen Streifen erkennen, welche in Fig. 1 vergrossert dargestellt sind.
+
+Figur 4. Gibt ein Bild des gleichformigen Gemenges von Augit und Maskelynit in dem Stein von Shergotty. Der Augit zeigt keine schalige Zusammensetzung, bios hie und da Zwillinge nach (1 0 0), ferner auch keine Krystallformen , sondern fullt den Raum zwischen den Krystallen des Maskelynits. Der letztere ist farblos, zeigt einfache lachtbrechung, hat jedoch meistens gestreckte Formen ahnlich denen der Feldspathe. Die Endigung der Krystalle, welche friiher von mir als tesseral gedeutet wurden, erscheint im Schnitte oft rechtwinkelig. Alle die hellen Stellen im Bilde bis an dessen Grenze beziehen sich auf Maskelynit. Man bemerkt ferner einige schwarze dem Magnetit entsprechende Punkte und Flecke.
+
 [Tafel 3: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/3-1.png) --- Brauner Augit im Eukrit von Juvinas. Vergrößerung 250.
 
 [Tafel 3: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/3-2.png) --- Gelber körniger Augit im Eukrit von Juvinas. Vergrößerung 250.
@@ -474,6 +498,14 @@ Mai 1885.
 [Tafel 3: Figur 4](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/3-4.png) --- Eukrit von Shergotty. Gleichförmig kristallinisch. Vergrößerung 65.
 
 # Erklärung der Tafel 4.
+
+Figur 1. Um die klastische Beschaffenheit der Howardite zur Anschauung zu bringen, ist hier eine Stelle aus dem Stein von Loutolaks bei schwacher Vergrösserung dargestellt. Splitter von Kristallen und Bruchstücke von kleinkörnigem Gestein lagern in einer pulverigen Grundmasse. Der Splitter, dessen Bild in der Mitte erscheint, gehört dem farblosen Anorthit an. Oberhalb desselben zeigen sich grössere Splitter von Augit; an dem einen rechts die geradlinige Spur einer Krystallfläche, an dem anderen die feinen Nadeln, welche in dem Plättchen schief gegen die Oberfläche aufsteigen. Unterhalb des Anorthits macht sich ein feinkörniges Gesteinsbruchstück bemerklich, worin zufolge der Beobachtung bei stärkerer Vergrösserung Bronzit der herrschende Bestandteil zu sein scheint. Nebenan lagern Splitter mit schwacher Linienzeichnung, den Bronzit zugehörig, rechts ein kleines Augitkorn mit Gitterzeichnung. Die schwarzen Körper gehören dem Magnetkies, gediegenem Eisen und wohl auch dem Magnetit an.
+
+Figur 2. Als charakteristisch für Howardit ist hier ein aus Anorthit und Augit bestehendes Bruchstück abgebildet. Der Anorthit erscheint völlig gleich demjenigen in den Eukriten von Juvinas und Stannern, der Augit ist wiederum von zweierlei Beschaffenheit. Der in den Maschen des Anorthits liegende ist gelblich und zeigt stellenweise eine feinschalige Zusammensetzung, der andere Augit, z. B. der im Bilde oberhalb sichtbare, ist braun und enthält viele schwarze staubartige Körnchen, welche sich öfters linear anordnen. In den Sprüngen dieses Augits bemerkt man eine schwarze Füllung ferner im Anorthit und Augit, sowie zwischen denselben öfters schwarze grössere Körner. Demnach wiederholen sich in diesen Bruchstücken die im Eukrit gewöhnlichen Erscheinungen.
+
+Figur 3. Manche der Bronzite im Howardit von Loutolaks und Massing zeigen geradlinige Umrisse, wovon dieses Bild ein Beispiel gibt. Der Schnitt geht nahezu parallel der prismatischen Spaltfläche 1 1′ 0. Die parallelen Risse sind der aufrechten Axe parallel. Die Umrisse zur Linken lassen auf die Längsfläche (0 1 0), ferner auf das am Hypersthen bekannte horizontale Prisma _d_ = (0 2 1) schliessen. Zarte Quersprünge sind mit Pünktchen besetzt, grössere schwarze runde oder eckige Einschlüsse unregelmässig verteilt. Um den Bronzit lagern Augitpartikel und ein grosses schwarzes mattes Korn.
+
+Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das Ansehen des vulkanischen Augits unserer Gesteine. Sie erscheinen bräunlich und gelblich. Andere aber, die eine blasse ins Grünliche fallende Farbe zeigen, sind durch eine feinschalige Zusammensetzung nach (0 0 1) ausgezeichnet. Ein Beispiel gibt diese Figur, die einen sehr unregelmässig geformten Splitter von solchem Augit von Sprüngen durchzogen darstellt. Derselbe ist von kleinen Splittern des braunen und des gelblichen Augits umgeben.
 
 [Tafel 4: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/4-1.png) --- Howardit von Loutolaks mit sehr ausgesprochenem Tuffcharakter. Vergrößerung 65.
 

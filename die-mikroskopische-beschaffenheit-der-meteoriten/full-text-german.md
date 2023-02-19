@@ -643,6 +643,14 @@ Figur 4. Diese Figur zeigt die gewöhnliche Anordnung der Olivin- und Bronzitkri
 
 # Erklärung der Tafel 12.
 
+Figur 1. Ein Beispiel des Vorkommens einzelner Bronzitkristalle in einer feinkörnig aussehenden Partie des Mocser Steines. Durch die Begrenzung von Magnetkies werden die Enden des Kristalls deutlicher hervorgehoben. Der Schnitt ist beiläufig parallel 1 0 0. Die obere dachförmige Grenze entspricht der gewöhnlich durch die Flächen _e_ = (1 2 2) hervorgebrachten stumpfen Endigung. Ausser den feinen Spaltlinien gemäss der Spaltbarkeit nach dem aufrechten Prisma geben sich auch noch andere Trennungen zu erkennen. Die Einschlüsse sind teils durchsichtige, teils opake Körnchen, selten Glaskügelchen. Um die Spaltlinien stärker hervortreten zu lassen, wurde das Bild bei starker Blendung aufgenommen Der Bronzitkristall hat links einen Fortsatz und grenzt dort an Bronzitkörner, rechts aber zum Teil an körnigen Olivin mit Plagioklas.
+
+Figur 2. Ein Bronzitindividuum in einem der harten braunen halbglasigen Steinsplitter, welche in dem tuffartigen Chondrit von Alexinaé so häufig sind. Der Schnitt ist der optischen Beobachtung zufolge beiläufig parallel 0 1 0 geführt, also ungefähr senkrecht zur negativen Mittellinie. Die zahlreichen grossen Einschlüsse sind sehr auffallend. Sie erfüllen negative Kristalle und bestehen aus Magnetkies, braunem Glase und einem Gemenge dieser beiden. Untergeordnet finden sich doppelbrechende Körnchen verschiedener Orientirung eingeschlossen, welche wohl auf Olivin zu beziehen sind. Der Bronzit ist beiderseits von Magnetkies eingefasst.
+
+Figur 3. Von den Bronzitchondren mit grossen unregelmässig verbundenen Individuen gibt dieser Durchschnitt einen öfter vorkommenden Fall an. Das längliche Körperchen hat eine etwas zackige Begrenzung, die einer rauhen Oberfläche entspricht. Die Rinde ist vollkommen kompakt, im Inneren erscheint eine ziemlich grosse Menge braunen Glases eingeschlossen, welches auch kleine Körnchen von Magnetkies enthält.
+
+Figur 4. Für die Darstellung einer in manchen Chondren wiederkehrenden eigentümlichen Textur des Bronzits wurde ein Beispiel aus dem Stein von Knyahinya benutzt. Dickere Stäbchen von Bronzit bilden ein unregelmässiges Gitter, dessen Oeffnungen mit parallelfaserigem bis radialfaserigem Bronzit erfüllt sind. Im unteren Teile des Bildes hat man eine Grenze des Kügelchens, auf der rechten Seite einen birnförmigen Einschluss von Magnetkies, welcher im Schliffe etwas ausgebrochen ist.
+
 [Tafel 12: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/12-1.png) --- Längsschnitt eines Bronzitkristalls in dem Chondrit von Mocs. Vergrößerung 160.
 
 [Tafel 12: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/12-2.png) --- Teil eines Bronzitlängsschnittes mit vielen Einschlüssen. Stein von Alexinaé. Vergrößerung 160.
@@ -653,6 +661,14 @@ Figur 4. Diese Figur zeigt die gewöhnliche Anordnung der Olivin- und Bronzitkri
 
 # Erklärung der Tafel 13.
 
+Figur 1. Die radialstengelige Textur vieler Bronzitchondren wird hier durch ein Beispiel aus dem Stein von Tipperary illustrirt. Das Gefüge ist bei der Betrachtung mit freiem Auge radialfaserig und zwar ist die Faserung exzentrisch. Viele der im Bilde sichtbaren Säulchen sind gerade, andere aber etwas gebogen. An den breiteren sind die feinen Spaltlinien entsprechend dem aufrechten Prisma und die welligen querverlaufenden Trennungen deutlich. An der Grenze des Kügelchens erscheint ein Ansatz von körnigem Bronzit.
+
+Figur 2. Durchschnitt eines harten braunen Bronzitkügelchens aus dem Chondrit von Gnadenfrei, welchen ich Hrn. Prof. v. Lasaulx verdanke. Ein Teil der Stengelchen ist vom Zentrum des Kügelchens aus radial gerichtet, die Mehrzahl folgt aber anderen Richtungen. Die Spaltlinien und querverlaufenden Trennungen treten auch hier allenthalben hervor. Stellenweise zeigen sich unregelmässig geformte Beimengungen von Magnetkies und von braunem Glase.
+
+Figur 3. Dieser anfänglich wirrstengelig erscheinende Durchschnitt besteht nach der optischen Prüfung aus vier parallelstengeligen Bronzitbündeln, deren jedes einheitlich auslöscht. Der eine Teil zur Linken mit einer deutlichen Gitterzeichnung erscheint als ein querdurchschnittenes Bündel parallel verwachsener Individuen, der Teil rechts oben entspricht nahezu einem Längsschnitt durch ein solches Bündel, während die beiden übrigen Teile als schiefe Durchschnitte solcher Verwachsungen anzusehen sind. Das Bild vereinigt mehrere nicht selten vorkommende Arten von Durchschnitten des Bronzits in den Chondriten. Der Umriss des Kügelchens erscheint oberhalb stark ausgerandet. Die Umgebung wird von dunkler Grundmasse und verschiedenen Chondren gebildet.
+
+Figur 4. Durchschnitt eines dunkelbraunen festen Bronzitkügelchens, welche in den Chondriten häufig sind. Die Ebene des Durchschnittes liegt quer gegen die feine Faserung. An vielen Stellen des Umrisses bemerkt man eine sehr dünne Rinde von körniger Textur. Die nächst gelegene innere Schichte ist grau, etwas durchsichtig und bietet an vielen Stellen eine sehr feine Gitterzeichnung dar. Ganze Partien haben einheitliche Auslöschung. Der innere Teil ist fast undurchsichtig, wahrscheinlich in Folge einer Beimischung opaker Körnchen. Der Umriss ist ebenfalls ausgerandet. In der Umgebung zeigen sich vorherrschend Körner und Kristalle von Olivin.
+
 [Tafel 13: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/13-1.png) --- Bronzitkügelchen, radialfaserig, aus dem Stein von Tipperary. Vergrößerung 70.
 
 [Tafel 13: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/13-2.png) --- Bronzitkügelchen, undeutlich radialfaserig aus dem Stein von Gnadenfrei. Vergrößerung 60.
@@ -662,6 +678,14 @@ Figur 4. Diese Figur zeigt die gewöhnliche Anordnung der Olivin- und Bronzitkri
 [Tafel 13: Figur 4](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/13-4.png) --- Dichtes Bronzitkügelchen quer gegen die Faserung geschnitten, im Stein von Knyahinya. Vergrößerung 80.
 
 # Erklärung der Tafel 14.
+
+Figur 1. Die im Steine von Dhurmsala vorkommenden feinfaserigen Kügelchen sind hier durch das Bild eines Schnittes, welcher den divergirenden Fasern parallel ist, repräsentirt. Feine graue fächerförmig angeordnete Linien bezeichnen die exzentrische Faserung. Am Rande oben und rechts gehen die trüben Fasern in grössere durchsichtige Bronzitindividuen aus. Opake Einschlüsse von Magnetkies machen sich besondors im oberen Teile bemerklich, im übrigen sind sie spärlich vertreten und bilden zuweilen sehr kleine sternförmige Gruppen. Eine Rinde ist nicht unterscheidbar.
+
+Figur 2. Auch hier ist die radialfaserige Textur ausgesprochen, doch weniger deutlich, als im vorigen Falle, weil dickere Stengelchen und abweichend orientirte Körner von Bronzit öfters auftreten. Einschlüsse von Magnetkies finden sich besonders in den äusseren Teilen, ein grösserer kugeliger Einschluss dieser Art ist im unteren Teile bemerklich. An dem Umrisse, der elliptisch ist, hebt sich die etwas durchsichtige dünne Rinde von dem Inneren deutlich ab. Sie zeigt bei optischer Prüfung eine körnige Zusammensetzung. In der Nachbarschaft bemerkt man Olivin- und Bronzitkügelchen.
+
+Figur 3. Das Auftreten jenes farblosen doppelbrechenden Silikates, welches eine Aehnlichkeit mit Monticellit zeigt, ist hier durch ein Bild aus dem Stein von Knyahinya charakterisirt. Die weissen Stellen entsprechen dem genannten Silikat. Sie scheinen von demselben Individuum herzurühren, da von untergeordneten Abweichungen abgesehen, alle gleichzeitig auslöschen. Im Ferneren bietet sich nichts Charakteristisches dar. Es zeigon sich nur krumme unregelmässige Sprünge und als Einschlüsse sehr kleine doppelbrechende Körnchen sowie eine Gruppe von Magnetkieskörnchen. Links oben bemerkt man gekröseartigen Olivin, links unten parallelfaserigen Bronzit, welche beide mit dem farblosen Silikat innig verwachsen sind. Rechts ist ein Gemenge von Olivin und Magnetkies verbreitet.
+
+Figur 4. Dieses Bild stellt dasselbe Silikat in einem Individuum vor, das wiederum eine einheitliche, etwas undulöse Auslöschung zeigt, hier jedoch an manchen Stellen feine Spaltlinien in drei Richtungen erkennen lässt. Die unregelmässigen Sprünge und die aus doppelbrechenden Körnchen bestehenden Einschlüsse treten auch hier auf. Zur Rechten hat man ein Korn von Olivin mit einer Tendenz zur Lamellenbildung in enger Verwachsung mit dem vorigen Silikat. Die Umgebung wird von Magnetkies und Olivin, der in Folge einer Zersetzung des ersteren braun gefärbt ist, gebildet.
 
 [Tafel 14: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/14-1.png) --- Bronzitkügelchen, in einem Längsschnitte die fächerartig divergirenden Fasern zeigend. Chondrit von Dhurmsala. Vergrößerung 60.
 

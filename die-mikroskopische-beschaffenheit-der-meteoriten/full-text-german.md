@@ -517,6 +517,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 
 # Erklärung der Tafel 5.
 
+Figur 1. Zeigt eine Stelle im Stein von Busti, wo der Enstatit einen deutlichen Umriss darbietet. Man sieht im unteren Teile des Bildes einen Kristall mit einer dachförmigen Endigung, welche wahrscheinlich dem Doma _p_ = (1 0 2) entspricht. Der Schnitt ist aber der optischen Prüfung zufolge zur aufrechten Axe schief nach aufwärts geneigt, daher der innere Winkel schärfer ist als wenn der Schnitt parallel zu _b_ = 0 1 0 wäre. Oberhalb und links erscheinen ebenfalls Splitter von Enstatit und zwar mit grossen Glaseinschlüssen, rechts ein Splitter von Plagioklas, etwas schlierig, fast ohne Einschlüsse.
+
+Figur 2. Ist von einer Stelle genommen, wo der Diopsid vorwiegt. Die kleineren Splitter in der Mitte des Feldes zeigen eine äussert feine Lamellentextur. Sie enthalten ungemein kleine Einschlüsse. Der grosse Diopsid im unteren Teile des Bildes zeigt einen Rest der ursprünglichen Kristallausbildung. Er ist reich an feinen schwarzen staubartigen Einschlüssen, enthält aber auch kleine Glaseinschlüsse. Im durchfallenden Lichte zeigen beide Diopside einen grauvioletten Farbenton, welcher aber dort fehlt, wo die Einschlüsse zurücktreten. Rechts ist wieder ein Splitter von Plagioklas zu bemerken.
+
+Figur 3. Stellt eine kleinkörnige Parthie des Steines von Bishopville dar. Im unteren Teile des Bildes ist ein grösseres Korn von Enstatit erkennbar, links ein Durchschnitt durch eine farblose Plagioklastafel, an welche sich ein Korn von Magnetkies anfügt. Das übrige ist ein Gemenge von Enstatit- und Plagioklaskörnern.
+
+Figur 4. Gibt die Erscheinung wieder, welche eines von den grösseren Plagioklaskörnern desselben Steines zwischen gekreuzten Nicols darbietet. Die Zwillingslamellen sind ziemlich breit, die Spaltbarkeit ist nicht deutlich ausgesprochen. Links hat man Enstatit von kleinkörnigem Gefüge.
+
 [Tafel 5: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/5-1.png) --- Bustit von Busti bei Gorukpur. Enstatit und Plagioklas. Vergrößerung 65.
 
 [Tafel 5: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/5-2.png) --- Diopsid und Plagioklas im Stein von Busti. Vergrößerung 65.
@@ -526,6 +534,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 [Tafel 5: Figur 4](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/5-4.png) --- Plagioklas im Chladnit von Bishopville im polaris. Lichte. Vergrößerung 75.
 
 # Erklärung der Tafel 6.
+
+Figur 1. Gibt den Charakter des Meteoriten von Shalka wieder. Kin grösserer Bronzitkristall, durch den Schnitt in einer zu den Kristallaxen schiefen Richtung getroffen, ist von einer körnigen Masse von Bronzit umgeben. In dem grossen Bronzit beobachtet man Längsrisse der prismatischen Spaltbarkeit entsprechend, sowie einzelne grobe Sprünge, welche gegen die feinen Risse beiläufig senkrecht oder schief gerichtet sind. Kleine rundliche braune Glaseinschlüsse machen sich am unteren Ende des Kristallschnittes bemerklich.
+
+Figur 2. Der Diogenit von Ibbenbühren, welcher meist aus grösseren Körnern von Bronzit zusammengesetzt ist, enthält zwischen diesen auch kleinkörnige Teile. Aus einem solchen ist die Figur entnommen. Sie zeigt den Bronzit rechts in Längsschnitten, links aber in Querschnitten, welche durch das Schleifen nach der prismatischen Spaltbarkeit zersprungen sind, teils wohl auch schon vordem zersprungen waren.
+
+Figur 3. Eine Stelle aus dem Amphoterit von Manbhoom, welche das körnige Gemenge von Olivin, Bronzit und Magnetkies erkennen lässt. Der Olivin bildet unregelmässige Körner mit krummen Sprüngen. Der Bronzit im Bilde rechts hat eine zarte Faserung nach der Spaltbarkeit. Die grösseren und kleineren opaken Körner entsprechen dem Magnetkies.
+
+Figur 4. Eignet sich sehr gut, den Charakter des gleichförmig-körnigen Olivins vieler Meteorsteine darzustellen. Die Körner haben keine regelmässige Begrenzung und sind von vielen gröberen Sprüngen, welche ganz unregelmässig verlaufen, ferner aber auch von unzähligen feinen, oft schwach gekrümmten Sprüngen, die beiläufig parallel verlaufen, durchzogen. Die letztere Anordnung der feinen Sprünge macht öfters die Unterscheidung von Bronzit und Olivin recht schwierig. Zwischen den Olivinkörnern sieht man hie und da kleine trübe Partikel, zuweilen auch farblose durchsichtige Körnchen, z. B. im Bilde rechts oben, eingeklemmt. Häufig sind Körnchen von Chromit mit Andeutungen tesseraler Formen.
 
 [Tafel 6: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/6-1.png) --- Bronzit in dem Stein von Shalka. Vergrößerung 160.
 
@@ -537,6 +553,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 
 # Erklärung der Tafel 7.
 
+Figur 1. Der Chondrit von Lancé eignet sich wegen der Dunkelheit der Grundmasse und der Kleinheit der Einschlüsse zur Darstellung des chondritischen Charakters. Das Bild zeigt links unterhalb den Durchschnitt eines rundlichen oberhalb abgeplatteten Chondrums von einem Sprung durchsetzt. Es ist monosomatisch. Rechts davon hat man Durchschnitte von zwei zusammengesetzten (polysomatischen) Kügelchen. Im Uebrigen sieht man sowohl kleine körnige Knöllchen mit vielen opaken Einschlüssen, als auch längliche Fetzen, endlich kleine Splitter, welche bald aus einem bald aus mehreren Individuen bestehen.
+
+Figur 2. Hier ist das Zusammenvorkommen verschiedenartiger Chondren im Stein von Mezö-Madaras dargestellt. In der Mitte zeigt sich der Durchschnitt eines porphyrischen Kügelchens. Die Rinde ist mit Körnern von Magnetkies gemengt, das Innere besteht aus Olivinkörnern in halbglasiger Grundmasse. Rechts unterhalb erscheint der Durchschnitt eines dichten Chondrums (Bronzit), in welchem die Fasertextur eben erkennbar ist. Die übrigen Chondren sind meist körnig. Oberhalb des zentralen Kügelchens ist auch ein zwischengeklemmter körniger Splitter wahrzunehmen.
+
+Figur 3. Die hier wiedergegebene Stelle aus dem Stein von Tieschitz lässt in dunkler Grundmasse rechts einen Teil von einer undeutlich faserigen Kugel (Bronzit) erkennen, welche eine blasse Rinde besitzt und an der gegen die Mitte des Bildes gerichteten Seite ausgehöhlt erscheint. Im oberen Teile ist ein schaliges Kügelchen (Bronzit) zu bemerken, welches gleichfalls eine Konkavität besitzt. Im Uebrigen sind einige körnige Kügelchen, sowie lappige Durchschnitte (Olivin) sichtbar, wovon die letzteren unregelmässig geformten Chondren entsprechen. Fast in der Mitte des Bildes hat man den scharf gezeichneten Splitter einer strahligen Kugel (Bronzit).
+
+Figur 4. In diesem Bilde, welches dem Stein von Homestead, Iowa City (2. Febr. 1875) entnommen ist, hat man rechts den Durchschnitt eines strahligen Kügelchens (Bronzit), welches die exzentrische Lage des Radiationspunktes deutlich zeigt, links aber ein porphyrisches Kügelchen, in dem scharf gezeichnete Olivinkristalle von einer trüben halbglasigen Grundmasse getragen werden. Oberhalb schmiegt sich an beide ein körniges Olivinchondrum, unterhalb sind es Splitter und ein unregelmässig gestaltetes Chondrum. Die schwarz erscheinenden Stellen werden von Eisen und Magnetkies eingenommen.
+
 [Tafel 7: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/7-1.png) --- Chondrit von Lancé. Kügelchen, Knöllchen, Fetzen und Splitter in einer schwarzen Grundmasse. Vergrößerung 65.
 
 [Tafel 7: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/7-2.png) --- Chondrit von Mezö-Madaras. Ein porphyrisches, ein dichtes und mehrere körnige Kügelchen. Vergrößerung 75.
@@ -546,6 +570,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 [Tafel 7: Figur 4](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/7-4.png) --- Chondrit von Homestead. Ein porphyrisches und ein strahliges Kügelchen. Vergrößerung 65.
 
 # Erklärung der Tafel 8.
+
+Figur 1. Der Stein von Dhurmsala, dem das Bild entnommen ist, enthält viele grössere Chondren von länglichrunder Form. Ein solches ist hier dargestellt um zu zeigen, dass bisweilen, wenn auch selten, in einem grossen Chondrum ein kleines eingeschlossen ist. Das grosse Chondrum ist unvollkommen porphyrisch. Kristalle, Körner und das kleine Chondrum, alle aus Olivin bestehend, sind von einer dichten, bei stärkerer Vergrösserung feinkörnig erscheinenden Grundmasse umgeben, zum Teile aber sitzen die Körner hart aneinander. Das kleine Chondrum ist monosomatisch.
+
+Figur 2. Die Figur stellt ein kleinkörniges Chondrum aus dem Stein von Seres dar. Dasselbe ist von länglich runder, etwas abgeplatteter Form und besteht hauptsächlich aus gelblichgrünem Olivin, dessen Körner oft Glaskügelchen und opake Einschlüsse führen. Zwischen denselben ist nur eine geringe Menge amorpher Grundmasse bemerkbar. Selten ist ein bräunliches Bronzitkörnchen zu sehen. Die Rinde ist voll von Magnetkies und Eisen, auch im Innern des Chondrums treten zwei grössere Körner von Magnetkies auf.
+
+Figur 3. Die in den Chondren enthaltene Glasmasse ist bisweilen in auffallender Menge vorhanden. Hier ist ein solcher Fall aus dem Stein von Lancé abgebildet. Die Rinde des Kügelchens ist geschlossen, aus Olivinkörnern zusammengesetzt. Das Innere besteht aus braunem Glas, welches wiederum Olivinkörner einschliesst. Der Olivin enthält Kügelchen von braunem Glas und Magnetkies eingeschlossen.
+
+Figur 4. Das hier dargestellte Olivinkügelchen im Stein von Tieschitz zeigt an allen Punkten gleichzeitige Auslöschung, entspricht also einem einzigen Kristall und hat Aehnlichkeit mit einem Kernkristall. Die blass grünliche Hülle enthält viele braune Glaskügelchen, auch opake Körnchen. Der braune Kern besteht aus Olivin und aus braunem Glase. Der Olivin ist eine Fortsetzung der Hülle, doch ist er hier lückenhaft gebildet, aus krummen und lappigen, im Bilde beiläufig horizontalen Wänden bestehend, welche nur geringe Zwischenräume lassen. Diese sind mit braunem Glase gefüllt.
 
 [Tafel 8: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/8-1.png) --- Ein porphyrisches Chondrum, Körner und ein kleineres Chondrum einschließend. Stein von Dhurmsala. Vergrößerung 8.
 
@@ -557,6 +589,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 
 # Erklärung der Tafel 9.
 
+Figur 1. In einem porphyrischen Kügelchen des ausgezeichnet chondritischen Steines von Borkut sind mehrere Olivinkristalle umgeben von einer Matrix, welche aus braunem Glase besteht. Die Olivine schliessen viel von der Grundmasse ein. In dem oberen Kristall, welcher beiläufig parallel 1 0 0 durchschnitten erscheint und die scharfe Kante 0 2 1 : 0 2′ 1 darbietet, sind ausser dem grossen Einschluss in der Mitte, welcher sich wie ein negativer Kristall verhält, noch andere Glaseinschlüsse zu sehen, welche, wenn auch unvollkommen, einen schaligen Bau hervorrufen. Unter diesem Kristall ist ein grosses Individuum zu sehen, welches auch noch deutliche Kristallumrisse erkennen lässt. Dasselbe ist von mehreren tafelförmigen parallel gelagerten Glaseinschlüssen durchzogen, so dass der Kristall gefächert erscheint. Links ist ein Olivinkristall mit sehr wenig Einschlüssen wiedergegeben.
+
+Figur 2. Ein Olivinkristall, welcher beiläufig parallel 0 1 0 durchschnitten ist und weniger scharfe Umrisse zeigt. Im Inneren sieht man radialfaserige Aggregate, welche eine andere Auslöschung zeigen als die Umgebung und welche Bronzit zu sein scheinen, ausserdem feine gestreckte Glaseinschlüsse. Das Ganze erscheint im Innern als eine unregelmässige Verwachsung von Olivin mit Bronzit, nach Aussen zu aber als ein gleichartiger Kristall.
+
+Figur 3. Schiefer Durchschnitt durch einen Olivinkristall. Die Richtung des Schnittes ist der Zone 1 0 0 : 0 1 0 genähert. Auf der rechten Seite ist der Kristall geöffnet und von der Grundmasse aus dringen zwei geweihförmige Glaseinschlüsse herein, die bezüglich einer horizontalen Linie beiläufig symmetrisch angeordnet sind. Der Kristall erscheint demnach hier in mehrere Wände geteilt, welche gegen eine dickere Mittelwand symmetrisch gestellt sind. Links ist der Kristall einheitlich gebaut. Die vertikale Kante scheint der aufrechten Axe parallel zu sein. Die Umgebung besteht grösstenteils aus Olivinkörnern.
+
+Figur 4. Ein merkwürdiges Individuum von Olivin, welches die Form eines Pilzes nachahmt. Der Stiel zur Linken wird von einem undeutlich ausgebildeten Kristall dargestellt, welcher ungefähr dieselbe Stellung hat, wie der oberste Kristall in Fig. 1. Der Hut wird von einem monosomatischen Kügelchen gebildet, welches im Innern von einem braunen Glasnetz durchzogen ist. Der Olivin erscheint hier in viele Platten und Stäbchen zerteilt, während die Rinde vollkommen zusammenhängend ist. Wie schon aus der Lage der Spaltrisse zu entnehmen ist, bilden Hut und Stiel ein Individuum. In der Tat geben alle Teile der ganzen Pilzform gleichzeitige Auslöschung. Der Doppelkörper ist umgeben von braunem Glas und vielen aneinander gedrängten Olivinkristallen. Das Bild stellt, wie der Vergleich mit Fig. 1 auf voriger Tafel zeigt, einen Teil des dort abgebildeten porphyrischen Olivinknollens dar.
+
 [Tafel 9: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/9-1.png) --- Olivinkristalle in einem glasreichen Kügelchen des Steines von Borkut. Vergrößerung 160.
 
 [Tafel 9: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/9-2.png) --- Olivinkristall mit Bronzit- und Glaseinschlüssen im Chondrit von Aigle. Vergrößerung 70.
@@ -567,6 +607,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 
 # Erklärung der Tafel 10.
 
+Figur 1. In einem gemischten Kügelchen, welches aus Olivin, Bronzit und braunem Glas besteht und in dem Stein von Tieschitz beobachtet wurde, erscheint der Olivin entweder in geschlossenen Kristallen mit vielen langgezogenen Glaseinschlüssen oder in Kristallskeletten. Das Bild zeigt den grösseren Teil eines solchen skelettartigen lndividuums aus mäanderförmig angeordneten Leisten bestehend, welche fadenförmige, an den Enden öfters kopfige braune Glaseinschlüsse enthalten. Die Leisten, welche nach den Kristallaxen gestreckt sind, umschliessen eine tiefbraune Glasmasse und sind von Glas, Olivinkristallen und radialfaserigem Bronzit umgeben. Früher, als mir noch weniger Erfahrung zur Seite stand, hatte ich diese Leisten für Bronzit gehalten (Denkschr. d. Wiener Akad. Bd. 39. pag. 197. Fig. 7).
+
+Figur 2. Das Vorkommen von blätterigen Olivinkügelchen, welche man in den Chondriten öfters findet, wird hier durch ein deutliches Beispiel aus dem Stein von Mezö-Madaras dargestellt. Das Kügelchen besteht im Inneren aus parallel gestellten und optisch gleich orientirten blassgelbgrünen Tafeln von Olivin und aus hellbraunem Glas, welches die Zwischenräume ausfüllt. Der Schnitt ist ungefähr senkrecht gegen die Ebene der Platten geführt. Nach Aussen ist das Kügelchen von einer Olivinrinde geschlossen, welche mit den Platten des Inneren gleichzeitig auslöscht, so dass das Ganze, vom Glas abgesehen ein einziges von Fächern durchzogenes Individuum darstellt, einem netzartig ausgebildeten Kristall entsprechend.
+
+Figur 3. Während in dem vorigen Falle das Kügelchen aus Platten zusammengesetzt ist, sind es hier vorzugsweise Stäbchen von Olivin, welche das Innere bilden. Dieselben scheinen nach den drei Kristallaxen gestreckt zu sein, da sie alle gleichzeitig auslöschen und an denselben drei Richtungen ausgesprochen sind. Nur der linke untere Teil der Kügelchen zeigt eine andere Auslöschung als das übrige und dem entsprechend eine andere, vierte Richtung der Stäbchen. Zwischen den Stäbchen ist wiederum ein hellbraunes Glas verbreitet, auch ist an vielen Stellen des Umrisses eine dünne Rinde bemerkbar, welche mit den Stäbchen zugleich auslöscht. Am unteren Rande rechts, wo keine Rinde wahrnehmbar ist, erscheint das Kügelchen unvollständig und so als ob ein Stück abgebrochen wäre. In diesem Kügelchen erscheint demnach der Olivin grösstentiels als ein einziges netzartig ausgebildetes Individuum, entsprechend den gestrickten Formen. Die schwarzen Unterbrechungen im Bilde des Kügelchens sind durch sekundär entstandene Klüfte mit brauner Füllung hervorgebracht. Die Umgebung wird von Olivinkörnern und von Magnetkies gebildet.
+
+Figur 4. Ein grosses polysomatisches Olivinkügelchen, aus mehreren Systemen von annähernd parallelen Tafeln von Olivin und von Glas zusammengesetzt. Jedes der Systeme zeigt eine andere einheitliche Auslöschung und erscheint bei stärkerer Vergrösserung ähnlich dem inneren Teile des in Fig. 2 dargestellten Kügelchens, doch finden sich im Glase hie und da doppelbrechende Nadeln, welche für Bronzit zu halten sind. Vier Systeme herrschen vor. Die geraden Begrenzungslinien derselben lassen auf ebene Zusammensetzungsflächen schliessen. Am Rande wird an vielen Stellen eine dünne Olivinrinde bemerkbar, welche mit dem zugehörigen Plattensystem gleichzeitig auslöscht. Die Umgebung besteht aus Körnchen und Kügelchen, die vorwiogend Olivin sind und aus Magnetkies.
+
 [Tafel 10: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/10-1.png) --- Skeletartiger Olivin mit fadenförmigen Glaseinschlüssen in dem Chondrit von Tieschitz. Vergrößerung 160.
 
 [Tafel 10: Figur 2](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/10-2.png) --- Gefächertes Kügelchen aus abwechselnden Lamellen von Olivin und Glas bestehend. Chondrit von Mezö-Madaras. Vergrößerung 200.
@@ -576,6 +624,14 @@ Figur 4. Unter den Augitsplittern des Howardits von Loutolaks haben viele das An
 [Tafel 10: Figur 4](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/10-4.png) --- Olivinkügelchen aus mehreren Systemen abwechselnder Olivin- und Glaslamellen bestehend. Chondrit von Knyahinya. Vergrößerung 25.
 
 # Erklärung der Tafel 11.
+
+Figur 1. Durchschnitt eines Olivinkügelchens mit dicker, durchsichtiger Rinde, welche, von kleinen Abweichungen abgesehen, gleichzeitig mit dem Olivin des Inneren auslöscht. Der letztere bietet in diesem Schnitte eine gekröseartige Zeichnung, da das braune Glas ziemlich unregelmässig verteilt ist. Aeusserlich erscheint das Kügelchen mit einer zusammenhängenden undurchsichtigen Schichte bedeckt, welche aus Körnchen von Magnetkies und auch von Eisen besteht. Im Wesentlichen herrscht Aehnlichkeit mit dem auf Tafel 8 in Fig. 4 dargestellten Objekte.
+
+Figur 2. Auch dieses Olivinkügelchen ist mit Ausnahme der äussersten Rinde monosomatisch. Im Inneren zeigen sich viele flache Stäbchen von Olivin, die zum grösseren Teile nach einer im Bilde vertikalen Richtung ausgedehnt und einander parallel gelagert sind und nur zum kleineren Teile einer anderen Richtung folgen, welche die vorige unter einem schiefen Winkel schneidet. Die Stäbchen liegen in einer Grundmasse von braunem Glase. Die Rinde des Kügelchens ist von zweierlei Beschaffenheit. Der innere durchsichtigere Teil gibt gleichzeitig mit den Stäbchen im Inneren einheitliche Auslöschung. Er enthält viele kleine runde Einschlüsse von Magnetkies. Der äussere Teil erscheint aus vielen sehr verschieden orientirten Körnchen zusammengesetzt, welche meistens aus Olivin, im übrigen aus Magnetkies bestehen.
+
+Figur 3. Die Rinde dieses Olivinkügelchens wird von mehreren kurzen, dicken, verschieden orientirten Individuen gebildet und umschliesst eine Masse braunen Glases, welches mehrere Olivinkristalle verbindet. Diese bieten z. T. langgestreckte z. T. kurze Durchschnitte dar, welche letztere die kranzförmige Anordnung der Rinde wiederholen. Die Umgebung bilden Körner und Kügelchen von Olivin, solche von Bronzit, ferner braunes Glas und Magnetkies.
+
+Figur 4. Diese Figur zeigt die gewöhnliche Anordnung der Olivin- und Bronzitkristalle in den glasführenden Chondren. Der Olivin bildet meist breite, der Bronzit schmale gestreckte Individuen. An manchen Stellen sind vierseitige Querschnitte der letzteren zu bemerken und im unteren Teile der Figur erscheint auch ein Durchdringungszwilling von Bronzit in der Gestalt eines schiefen Kreuzes abgebildet. Die Bronzite schmiegen sich öfters an die Olivine an und drängen sich in den Kanälen zwischen den Olivinkristallen zusammen. Alle diese Kristalle sind in einem braunen Glase eingebettet.
 
 [Tafel 11: Figur 1](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/11-1.png) --- Ein monosomatisches Olivinkügelchen mit dicker Rinde in dem Chondrit von Alfianello. Vergrößerung 60.
 

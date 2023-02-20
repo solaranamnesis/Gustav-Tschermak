@@ -4,10 +4,9 @@ Attempt at a translation of Dr. Tschermak's works. I welcome all pull requests o
 
 ## Die mikroskopische Beschaffenheit der Meteoriten
 
-English - Plain Text  
-English - PDF  
+English Version:   
 [German - Plain Text](die-mikroskopische-beschaffenheit-der-meteoriten/full-text-german.md)  
-German - PDF  
+[German - PDF](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german_biolinum.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german_frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german_swab.pdf)  
 
 ## Trümmerstruktur der Meteoriten von Orvinio und Chantonnay
 

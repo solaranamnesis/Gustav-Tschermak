@@ -1,23 +1,34 @@
-\documentclass[a4paper, 12pt, oneside]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{fouriernc}
-\usepackage{csquotes}
-\usepackage{booktabs}
-\usepackage{url}
+\documentclass[a4paper, 11pt, oneside, polutonikogreek, german]{article}
+\usepackage{gfsbaskerville}
+% Load encoding definitions (after font package)
+\usepackage[LGR,T1]{fontenc}
+\usepackage{textalpha}
+
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily}
+
+% Babel package:
+\usepackage{babel}
+
+% With XeTeX$\$LuaTeX, load fontspec after babel to use Unicode
+% fonts for Latin script and LGR for Greek:
+\ifdefined\luatexversion \usepackage{fontspec}\fi
+\ifdefined\XeTeXrevision \usepackage{fontspec}\fi
+
+% "Lipsiakos" italic font `cbleipzig`:
+\newcommand*{\lishape}{\fontencoding{LGR}\fontfamily{cmr}%
+		       \fontshape{li}\selectfont}
+\DeclareTextFontCommand{\textli}{\lishape}
+
+\usepackage{float}
 \usepackage{graphicx}
-\setlength{\emergencystretch}{15pt}
 \graphicspath{ {./figures/} }
 \usepackage[figurename=]{caption}
+\usepackage{booktabs}
+\setlength{\emergencystretch}{15pt}
 \usepackage{fancyhdr}
-\usepackage{amssymb}
-\usepackage{array}
-\usepackage{float}
-\usepackage{imakeidx}
-\usepackage{qtree}
-\usepackage{tablefootnote}
 \usepackage{microtype}
-\renewcommand{\listfigurename}{List of Plates}
-\makeindex[columns=2, title=Alphabetical Index, intoc]
+
 \begin{document}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
@@ -91,6 +102,8 @@ Da in dem jetzt abgeschlossenen Werk von Herrn Prof. Tschermak nur die Meteorste
 Unterzeichnete Verlagshandlung hofft, dass die erste Lieferung bis Ostern 1886 erscheinen kann. Auch für dieses Werk sind zunächst drei Lieferungen in Aussicht genommen.
 
 Stuttgart, 15. Juli 1885.
+
+\bigskip
 
 E. Schweizerbart'sche Verlagshandlung (E. Koch).
 \clearpage

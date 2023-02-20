@@ -20,7 +20,7 @@ Stuttgart, 15. Juli 1885.
 
 E. Schweizerbart'sche Verlagshandlung (E. Koch).
 
-# Vorwort 
+# Vorwort.
 
 Nur Wenigen ist es vergönnt, die Meteoriten genauer kennen zu lernen und doch ist es der Wunsch Vieler sich mit den wichtigsten Eigenschaften dieser Körper vertraut zu machen, welche aus fernen Himmelsräumen zur Erde gelangt, uns über einen Teil der Sternenwelt unmittelbare Nachricht bringen. Die Meteoriten, diese Splitter untergegangener oder vielleicht noch kreisender planetarischer Massen, geben uns eine früher ungeahnte Gelegenheit, fremde kosmische Körper mit den Händen zu greifen, zu wägen, zu messen, zu zerlegen, mit allen Mitteln der Mineralogie und Chemie zu prüfen. Was wir an ihnen wahrnehmen, erlaubt uns wichtige Kombinationen mit den Resultaten astronomischer Beobachtung sowie direkte Vergleiche mit der Steinrinde unseres Planeten. Diese bilden die Grundlage interessanter und bedeutungsvoller Schlüsse, die weit über den Bereich unserer Wohnstätte hinausreichend unser Wissen und Vermuten über die früheren Zustände sowohl der Erde als auch der ganzen Sternenwelt erheblich zu vervollkommnen geeignet sind.
 

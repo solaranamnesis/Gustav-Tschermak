@@ -257,9 +257,9 @@ Da der Enstatit keine anderen Erscheinungen darbietet als der Bronzit in folgend
 
 Das Innere der beiden ersteren ist hell graulichgelb mit größeren lichtgelbgrünen Körnern. Sowohl diese Körner als auch die übrige Masse bestehen aus einem Bronzit mit 20.5 resp. 17.5 Eisenoxydul. In dem Stein von Manegaum fand Maskelyne auch geringe Mengen von Chromit und gediegen Eisen.* Im Stein von Ibbenbühren konnte v. Rath nur Bronzit erkennen, abgesehen von wenigen Einschlüssen.*
 
-*) Philosophical Transactions CLX. p. 189. (1870.)
+*) Philosophical Transactions 160. p. 189. (1870.)
 
-*) Monatsberichte der Berliner Akademie 1872, p. 27. Pogg. Ann. CXLVI. p. 474.
+*) Monatsberichte der Berliner Akademie 1872, p. 27. Pogg. Ann. 146. p. 474.
 
 Der Meteorit von Ibbenbühren ist ungemein gleichartig. (Taf. 6. Fig. 2.) Der Bronzit bildet große und kleine Körner fast ohne eine Spur von regelmäßiger Form. Im polarisierten Lichte zeigen manche Individuen eine zarte Streifung, jedoch ohne ausgesprochenen Zwillingscharakter. Zuweilen zeigen sich auch einzelne sehr dünne Lamellen von schiefer Auslöschung eingeschlossen. Dieselben dürften einem Augit angehören. Einschlüsse sind nur sparsam vorhanden, und zwar teils rotbraune Glaseinschlüsse, teils opake Körnchen, welche Magnetkies und Chromit sein dürften. Auch sieht man bisweilen sehr schmale schwarze Klüfte, deren Füllung eine braunschwarze Masse ist. An einer Stelle beobachtete ich zwischen den Bronzitkörnern ein farbloses Mineral, aus einem Aggregat kleiner Körnchen bestehend, welche Zwillingsbildungen ähnlich denen der Plagioklase wahrnehmen ließen, doch nicht so ausgesprochen, dass die Bestimmung sicher wäre. Es könnte auch Tridymit sein.
 

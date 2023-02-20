@@ -181,7 +181,7 @@ Die Meteoriten von Jonzac sind jenem von Juvinas ungemein ähnlich, der von Pete
 
 Zu den Eukriten ist ferner noch der Meteorit von Shergotty zu zählen, den ich vor Jahren beschrieb.* Derselbe ist ein deutlich körniges Gemenge, wesentlich bestehend aus gelblich grauen matten Körnchen und Prismen, welche als ein Augit bestimmt wurden, ferner aus wasserhellen glasigen Körnchen und Säulchen, welche auf kein bisher bekanntes Mineral zu beziehen sind und von mir als Maskelynit bezeichnet wurden.
 
-*) Sitzungsberichte der Wiener Akad. Bd. 65. Abt. 1, p. 122 and Tschermak's Mineralog. Mitteil. 1872, p. 87.
+*) Sitzungsberichte der Wiener Akad. Bd. 65. Abt. 1, p. 122 and Tschermaks Mineralog. Mitteil. 1872, p. 87.
 
 Der Augit verhält sich in durchfallendem Lichte wie der vulkanische Augit, er erscheint lichtbraun, fast ganz frei von Einschlüssen. Eine Zwillingsbildung nach a ist ziemlich häufig, jedoch ohne Wiederholung. Die Trübung, welche ihm ein fremdartiges Aussehen verleiht, bleibt ihm teilweise auch im durchfallenden Lichte. Dieselbe rührt von ungemein feinen unregelmäßigen Sprüngen her, welche schließen lassen, dass der Augit eine mechanische Veränderung erfahren habe. Durch diese Beschaffenheit ist er von dem tellurischen Augit verschieden, ebenso durch die chemische Zusammensetzung, da er weniger Kalk enthält. Der Maskelynit ist vollkommen farblos und wasserhell. Er zeigt im Dünnschliffe meist langgestreckte Umrisse und parallel der Länge feine Linien, so dass er im gewöhnlichen Lichte ganz und gar den Eindruck von Plagioklas hervorruft. Die chemische Zusammensetzung entspricht gleichfalls einem Plagioklas aus der Labradoritreihe. Im polarisierten Lichte löscht er aber vollkommen aus, erweist sich also einfach brechend. Die Sprünge in demselben entsprechen einem deutlich muscheligen Bruche wie bei einem Glas. Demnach verhält sich der Maskelynit wie ein durch Schmelzung oder überhaupt durch bloße mechanische Veränderung in den amorphen Zustand übergeführter Labradorit.
 
@@ -299,7 +299,7 @@ Außer diesen Körnern finden sich in der Grundmasse auch scharfkantige größer
 
 Die Chondren, welche schon von Reichenbach* und G. Rose als merkwürdige Bildungen hervorgehoben wurden, sind eine charakteristische Form, in welcher dieselben Körper, die auch in der Grundmasse vorkommen, einzeln oder gemengt auftreten. Ihr Zusammenvorkommen ist aber ein anderes, als jenes der Gemengteile in echt kristallinischem Gestein, indem nicht Chondren von bestimmter Beschaffenheit nebeneinander liegen, sondern die verschiedenartigsten im selben Gemenge angetroffen werden, in der Art wie die verschiedenartigsten Minerale in einem Tuff beisammen liegen. Beispiele geben Taf. 7, Fig. 1 bis 4.
 
-*) Poggendorff's Annalen, Band 111, p. 353.
+*) Poggendorffs Annalen, Band 111, p. 353.
 
 Die Größe der Chondren ist variabel, manchmal werden solche von Walnussgroße beobachtet, zuweilen wiederum solche von staubartiger Kleinheit. Am häufigsten sind sie etwa hirsekorngroß. Die Oberfläche ist meistens etwas rau bis höckerig, seltener glatt (an harten faserigen Kügelchen).
 
